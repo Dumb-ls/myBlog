@@ -1,0 +1,156 @@
+---------------------------------------------------------------
+[ 2021-01-27T13:08:03+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/search/index
+[ error ] [64]main(): Failed opening required 'vendor/autoload.php' (include_path='.;C:\php\pear')
+---------------------------------------------------------------
+[ 2021-01-27T13:08:33+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/search/index
+[ error ] [64]main(): Failed opening required 'vendor/autoload.php' (include_path='.;C:\php\pear')
+---------------------------------------------------------------
+[ 2021-01-27T13:11:43+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/search/index
+[ error ] [64]main(): Failed opening required 'vendor/autoload.php' (include_path='.;C:\php\pear')
+---------------------------------------------------------------
+[ 2021-01-27T13:12:00+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/search/index
+[ error ] [64]main(): Failed opening required 'vendor/autoload.php' (include_path='.;C:\php\pear')
+---------------------------------------------------------------
+[ 2021-01-27T13:12:18+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/search/index
+[ error ] [64]main(): Failed opening required 'vendor/autoload.php' (include_path='.;C:\php\pear')
+---------------------------------------------------------------
+[ 2021-01-27T13:12:33+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/search/index
+[ error ] [64]main(): Failed opening required 'vendor/autoload.php' (include_path='.;C:\php\pear')
+---------------------------------------------------------------
+[ 2021-01-27T13:12:48+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/search/index
+[ error ] [64]main(): Failed opening required 'vendor/autoload.php' (include_path='.;C:\php\pear')
+---------------------------------------------------------------
+[ 2021-01-27T13:14:19+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/search/index
+[ error ] [64]main(): Failed opening required 'vendor/autoload.php' (include_path='.;C:\php\pear')
+---------------------------------------------------------------
+[ 2021-01-27T13:14:26+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/search/index
+[ error ] [64]main(): Failed opening required 'vendor/autoload.php' (include_path='.;C:\php\pear')
+---------------------------------------------------------------
+[ 2021-01-27T13:14:37+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/search/index
+[ error ] [64]main(): Failed opening required 'vendor/autoload.php' (include_path='.;C:\php\pear')
+---------------------------------------------------------------
+[ 2021-01-27T13:16:58+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/search/index
+[ error ] [64]main(): Failed opening required 'vendor/autoload.php' (include_path='.;C:\php\pear')
+---------------------------------------------------------------
+[ 2021-01-27T13:20:46+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/search/createIndex
+[ error ] [64]main(): Failed opening required 'vendor/autoload.php' (include_path='.;C:\php\pear')
+---------------------------------------------------------------
+[ 2021-01-27T13:21:16+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/search/createIndex
+[ error ] [64]main(): Failed opening required 'vendor/autoload.php' (include_path='.;C:\php\pear')
+---------------------------------------------------------------
+[ 2021-01-27T13:21:48+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/search/createIndex
+[ error ] [64]main(): Failed opening required 'vendor/autoload.php' (include_path='.;C:\php\pear')
+---------------------------------------------------------------
+[ 2021-01-27T13:21:49+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/search/createIndex
+[ error ] [64]main(): Failed opening required 'vendor/autoload.php' (include_path='.;C:\php\pear')
+---------------------------------------------------------------
+[ 2021-01-27T13:22:10+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/search/createIndex
+[ error ] [64]main(): Failed opening required 'vendor/autoload.php' (include_path='.;C:\php\pear')
+---------------------------------------------------------------
+[ 2021-01-27T13:22:33+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/search/createIndex
+[ error ] [64]main(): Failed opening required 'vendor/autoload.php' (include_path='.;C:\php\pear')
+---------------------------------------------------------------
+[ 2021-01-27T13:22:50+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/search/createIndex
+[ error ] [64]main(): Failed opening required 'vendor/autoload.php' (include_path='.;C:\php\pear')
+---------------------------------------------------------------
+[ 2021-01-27T13:22:51+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/search/createIndex
+[ error ] [64]main(): Failed opening required 'vendor/autoload.php' (include_path='.;C:\php\pear')
+---------------------------------------------------------------
+[ 2021-01-27T13:23:29+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/search/createIndex
+[ error ] [64]main(): Failed opening required 'vendor/autoload.php' (include_path='.;C:\php\pear')
+---------------------------------------------------------------
+[ 2021-01-27T13:23:41+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/search/createIndex
+[ error ] [64]main(): Failed opening required 'vendor/autoload.php' (include_path='.;C:\php\pear')
+---------------------------------------------------------------
+[ 2021-01-27T13:23:54+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/search/createidnex
+[ error ] [64]main(): Failed opening required 'vendor/autoload.php' (include_path='.;C:\php\pear')
+---------------------------------------------------------------
+[ 2021-01-27T13:24:11+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/search/index
+[ error ] [64]main(): Failed opening required 'vendor/autoload.php' (include_path='.;C:\php\pear')
+---------------------------------------------------------------
+[ 2021-01-27T13:24:30+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/search/index
+[ error ] [64]main(): Failed opening required 'vendor/autoload.php' (include_path='.;C:\php\pear')
+---------------------------------------------------------------
+[ 2021-01-27T13:25:05+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/search/index
+[ error ] [64]main(): Failed opening required 'vendor/autoload.php' (include_path='.;C:\php\pear')
+---------------------------------------------------------------
+[ 2021-01-27T13:25:13+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/search/index
+[ error ] [64]main(): Failed opening required 'vendor/autoload.php' (include_path='.;C:\php\pear')
+---------------------------------------------------------------
+[ 2021-01-27T13:25:35+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/search/index
+[ error ] [64]main(): Failed opening required 'vendor/autoload.php' (include_path='.;C:\php\pear')
+---------------------------------------------------------------
+[ 2021-01-27T13:25:54+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/search/index
+[ error ] [64]main(): Failed opening required 'vendor/autoload.php' (include_path='.;C:\php\pear')
+---------------------------------------------------------------
+[ 2021-01-27T13:26:13+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/search/index
+[ error ] [64]main(): Failed opening required 'vendor/autoload.php' (include_path='.;C:\php\pear')
+---------------------------------------------------------------
+[ 2021-01-27T13:27:22+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/index/createIndex
+[ error ] [64]main(): Failed opening required 'vendor/autoload.php' (include_path='.;C:\php\pear')
+---------------------------------------------------------------
+[ 2021-01-27T13:27:29+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/index/index
+[ error ] [64]main(): Failed opening required 'vendor/autoload.php' (include_path='.;C:\php\pear')
+---------------------------------------------------------------
+[ 2021-01-27T13:27:40+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/index/index
+[ error ] [64]main(): Failed opening required 'vendor/autoload.php' (include_path='.;C:\php\pear')
+---------------------------------------------------------------
+[ 2021-01-27T13:28:11+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api
+[ error ] [64]main(): Failed opening required 'vendor/autoload.php' (include_path='.;C:\php\pear')
+---------------------------------------------------------------
+[ 2021-01-27T13:28:18+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/index/index
+[ error ] [64]main(): Failed opening required 'vendor/autoload.php' (include_path='.;C:\php\pear')
+---------------------------------------------------------------
+[ 2021-01-27T13:30:27+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/search/createIndex
+[ error ] [400]{"error":{"root_cause":[{"type":"resource_already_exists_exception","reason":"index [test/jFpcbiiOSGulhIFxeOY7iA] already exists","index_uuid":"jFpcbiiOSGulhIFxeOY7iA","index":"test"}],"type":"resource_already_exists_exception","reason":"index [test/jFpcbiiOSGulhIFxeOY7iA] already exists","index_uuid":"jFpcbiiOSGulhIFxeOY7iA","index":"test"},"status":400}
+---------------------------------------------------------------
+[ 2021-01-27T13:33:38+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/search/createIndex
+[ error ] [0]致命错误: Class 'app\api\controller\Config' not found
+---------------------------------------------------------------
+[ 2021-01-27T13:36:34+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/search/createIndex
+[ error ] [0]致命错误: Class 'app\common\library\Help' not found
+---------------------------------------------------------------
+[ 2021-01-27T13:36:52+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/search/createIndex
+[ error ] [0]致命错误: Call to a member function param() on null
+---------------------------------------------------------------
+[ 2021-01-27T13:38:46+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/index/create
+[ error ] [400]{"error":{"root_cause":[{"type":"resource_already_exists_exception","reason":"index [test/VC36h8eXQOS5ciq8SH4dQw] already exists","index_uuid":"VC36h8eXQOS5ciq8SH4dQw","index":"test"}],"type":"resource_already_exists_exception","reason":"index [test/VC36h8eXQOS5ciq8SH4dQw] already exists","index_uuid":"VC36h8eXQOS5ciq8SH4dQw","index":"test"},"status":400}
+---------------------------------------------------------------
+[ 2021-01-27T13:39:11+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/index/create
+[ error ] [400]{"error":{"root_cause":[{"type":"resource_already_exists_exception","reason":"index [test/VC36h8eXQOS5ciq8SH4dQw] already exists","index_uuid":"VC36h8eXQOS5ciq8SH4dQw","index":"test"}],"type":"resource_already_exists_exception","reason":"index [test/VC36h8eXQOS5ciq8SH4dQw] already exists","index_uuid":"VC36h8eXQOS5ciq8SH4dQw","index":"test"},"status":400}
+---------------------------------------------------------------
+[ 2021-01-27T13:39:29+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/index/create
+[ error ] [400]{"error":{"root_cause":[{"type":"resource_already_exists_exception","reason":"index [test/VC36h8eXQOS5ciq8SH4dQw] already exists","index_uuid":"VC36h8eXQOS5ciq8SH4dQw","index":"test"}],"type":"resource_already_exists_exception","reason":"index [test/VC36h8eXQOS5ciq8SH4dQw] already exists","index_uuid":"VC36h8eXQOS5ciq8SH4dQw","index":"test"},"status":400}
+---------------------------------------------------------------
+[ 2021-01-27T13:39:45+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/index/create
+[ error ] [0]致命错误: Call to a member function param() on null
+---------------------------------------------------------------
+[ 2021-01-27T13:42:28+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/index/create
+[ error ] [400]{"error":{"root_cause":[{"type":"resource_already_exists_exception","reason":"index [test/R-TUOEbFR6S8DCiV1PHcEQ] already exists","index_uuid":"R-TUOEbFR6S8DCiV1PHcEQ","index":"test"}],"type":"resource_already_exists_exception","reason":"index [test/R-TUOEbFR6S8DCiV1PHcEQ] already exists","index_uuid":"R-TUOEbFR6S8DCiV1PHcEQ","index":"test"},"status":400}
+---------------------------------------------------------------
+[ 2021-01-27T13:42:43+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/index/create
+[ error ] [0]致命错误: Call to a member function param() on null
+---------------------------------------------------------------
+[ 2021-01-27T13:43:02+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/index/create
+[ error ] [400]{"error":{"root_cause":[{"type":"resource_already_exists_exception","reason":"index [test/K_fZWQLKQyyxZ8ph6wybig] already exists","index_uuid":"K_fZWQLKQyyxZ8ph6wybig","index":"test"}],"type":"resource_already_exists_exception","reason":"index [test/K_fZWQLKQyyxZ8ph6wybig] already exists","index_uuid":"K_fZWQLKQyyxZ8ph6wybig","index":"test"},"status":400}
+---------------------------------------------------------------
+[ 2021-01-27T13:44:58+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/index/search
+[ error ] [0]致命错误: Call to a member function param() on null
+---------------------------------------------------------------
+[ 2021-01-27T13:45:07+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/index/search
+[ error ] [0]致命错误: Call to a member function param() on null
+---------------------------------------------------------------
+[ 2021-01-27T13:45:08+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/index/search
+[ error ] [0]致命错误: Call to a member function param() on null
+---------------------------------------------------------------
+[ 2021-01-27T13:58:13+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/index/getIndex
+[ error ] [0]类型错误: Too few arguments to function app\api\controller\Search::getIndex(), 1 passed in F:\WebWork\1.2.0.20201008_full\application\api\controller\Index.php on line 55 and exactly 2 expected
+---------------------------------------------------------------
+[ 2021-01-27T13:58:29+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/index/getIndex
+[ error ] [0]类型错误: Too few arguments to function app\api\controller\Search::getIndex(), 0 passed in F:\WebWork\1.2.0.20201008_full\application\api\controller\Index.php on line 55 and exactly 2 expected
+---------------------------------------------------------------
+[ 2021-01-27T13:58:38+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/index/getIndex
+[ error ] [0]id is required for get
+---------------------------------------------------------------
+[ 2021-01-27T13:59:22+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/index/getIndex
+[ error ] [0]id is required for get
