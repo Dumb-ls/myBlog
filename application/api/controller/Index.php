@@ -54,4 +54,18 @@ class Index extends Api
     {
         $this->_es->getIndex('test','1');
     }
+
+    public function practice($nums= [2,7,11,15], $target = 9)
+    {
+        $res = [];
+            foreach ($nums as $k => $v){
+                $diff = $target - $v;
+                $res[] = array_search($diff,$nums);
+                $res[] = $k;
+
+                unset($nums[$k]);
+            }
+        return json($res);
+
+    }
 }

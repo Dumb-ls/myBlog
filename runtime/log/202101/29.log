@@ -1,0 +1,40 @@
+---------------------------------------------------------------
+[ 2021-01-29T15:20:56+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/index/practice
+[运行时间：0.118984s] [吞吐率：8.40req/s] [内存消耗：5,215.89kb] [文件加载：228]
+[ error ] [8]未定义数组下标: 7[F:\WebWork\blog\application\api\controller\Index.php:68]
+---------------------------------------------------------------
+[ 2021-01-29T15:21:33+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/index/practice
+[运行时间：0.079801s] [吞吐率：12.53req/s] [内存消耗：5,209.07kb] [文件加载：226]
+[ error ] [0]variable type error： array[F:\WebWork\blog\thinkphp\library\think\Response.php:316]
+---------------------------------------------------------------
+[ 2021-01-29T15:22:17+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/index/practice
+[运行时间：0.077081s] [吞吐率：12.97req/s] [内存消耗：5,209.07kb] [文件加载：226]
+[ error ] [0]variable type error： array[F:\WebWork\blog\thinkphp\library\think\Response.php:316]
+---------------------------------------------------------------
+[ 2021-01-29T15:22:37+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/index/practice
+[运行时间：0.083548s] [吞吐率：11.97req/s] [内存消耗：5,208.82kb] [文件加载：226]
+[ error ] [0]variable type error： array[F:\WebWork\blog\thinkphp\library\think\Response.php:316]
+---------------------------------------------------------------
+[ 2021-01-29T15:23:38+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/index/practice
+[运行时间：0.078103s] [吞吐率：12.80req/s] [内存消耗：5,208.73kb] [文件加载：226]
+[ error ] [0]variable type error： array[F:\WebWork\blog\thinkphp\library\think\Response.php:316]
+---------------------------------------------------------------
+[ 2021-01-29T15:24:40+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/index/practice
+[运行时间：0.069264s] [吞吐率：14.44req/s] [内存消耗：5,208.27kb] [文件加载：226]
+[ error ] [0]variable type error： boolean[F:\WebWork\blog\thinkphp\library\think\Response.php:316]
+---------------------------------------------------------------
+[ 2021-01-29T15:24:42+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/index/practice
+[运行时间：0.069205s] [吞吐率：14.45req/s] [内存消耗：5,208.27kb] [文件加载：226]
+[ error ] [0]variable type error： boolean[F:\WebWork\blog\thinkphp\library\think\Response.php:316]
+---------------------------------------------------------------
+[ 2021-01-29T15:41:39+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/index/practice
+[运行时间：0.095806s] [吞吐率：10.44req/s] [内存消耗：5,216.67kb] [文件加载：228]
+[ error ] [2]array_push() expects parameter 1 to be array, null given[F:\WebWork\blog\application\api\controller\Index.php:63]
+---------------------------------------------------------------
+[ 2021-01-29T15:43:20+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/index/practice
+[运行时间：0.060272s] [吞吐率：16.59req/s] [内存消耗：5,223.59kb] [文件加载：229]
+[ error ] [4096]Object of class think\response\Json could not be converted to string[F:\WebWork\blog\application\api\controller\Index.php:69]
+---------------------------------------------------------------
+[ 2021-01-29T16:01:57+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/index/practice
+[运行时间：0.080769s] [吞吐率：12.38req/s] [内存消耗：5,208.73kb] [文件加载：226]
+[ error ] [0]variable type error： array[F:\WebWork\blog\thinkphp\library\think\Response.php:316]
