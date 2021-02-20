@@ -42,7 +42,6 @@ class Index extends Api
     public function search()
     {
         $data = $this->_es->getList('test', '天安门');
-//        dump($data);
     }
 
     public function del()
