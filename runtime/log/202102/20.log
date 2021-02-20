@@ -1,0 +1,208 @@
+---------------------------------------------------------------
+[ 2021-02-20T15:50:02+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/voice/sendvoice
+[运行时间：0.612259s] [吞吐率：1.63req/s] [内存消耗：3,370.46kb] [文件加载：173]
+[ error ] [0]方法参数错误:filepath[F:\WebWork\blog\thinkphp\library\think\App.php:431]
+---------------------------------------------------------------
+[ 2021-02-20T15:50:57+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/voice/sendvoice
+[运行时间：0.065001s] [吞吐率：15.38req/s] [内存消耗：11,570.88kb] [文件加载：173]
+[ error ] [0]方法参数错误:filepath[F:\WebWork\blog\thinkphp\library\think\App.php:431]
+---------------------------------------------------------------
+[ 2021-02-20T15:50:58+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/voice/sendvoice
+[运行时间：0.058863s] [吞吐率：16.99req/s] [内存消耗：11,570.88kb] [文件加载：173]
+[ error ] [0]方法参数错误:filepath[F:\WebWork\blog\thinkphp\library\think\App.php:431]
+---------------------------------------------------------------
+[ 2021-02-20T15:51:33+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/voice/sendvoice
+[运行时间：0.056598s] [吞吐率：17.67req/s] [内存消耗：11,570.93kb] [文件加载：173]
+[ error ] [0]方法参数错误:filepath[F:\WebWork\blog\thinkphp\library\think\App.php:431]
+---------------------------------------------------------------
+[ 2021-02-20T15:51:49+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/voice/sendvoice
+[运行时间：0.055674s] [吞吐率：17.96req/s] [内存消耗：11,570.88kb] [文件加载：173]
+[ error ] [0]方法参数错误:filepath[F:\WebWork\blog\thinkphp\library\think\App.php:431]
+---------------------------------------------------------------
+[ 2021-02-20T15:52:26+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/voice/sendvoice
+[运行时间：0.067382s] [吞吐率：14.84req/s] [内存消耗：11,570.88kb] [文件加载：173]
+[ error ] [0]方法参数错误:filepath[F:\WebWork\blog\thinkphp\library\think\App.php:431]
+---------------------------------------------------------------
+[ 2021-02-20T15:52:45+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/voice/sendvoice
+[运行时间：0.062294s] [吞吐率：16.05req/s] [内存消耗：11,570.88kb] [文件加载：173]
+[ error ] [0]方法参数错误:filepath[F:\WebWork\blog\thinkphp\library\think\App.php:431]
+---------------------------------------------------------------
+[ 2021-02-20T15:52:54+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/voice/sendvoice
+[运行时间：0.066365s] [吞吐率：15.07req/s] [内存消耗：11,553.63kb] [文件加载：173]
+[ error ] [0]方法参数错误:filepath[F:\WebWork\blog\thinkphp\library\think\App.php:431]
+---------------------------------------------------------------
+[ 2021-02-20T15:52:55+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/voice/sendvoice
+[运行时间：0.058425s] [吞吐率：17.12req/s] [内存消耗：11,553.63kb] [文件加载：173]
+[ error ] [0]方法参数错误:filepath[F:\WebWork\blog\thinkphp\library\think\App.php:431]
+---------------------------------------------------------------
+[ 2021-02-20T15:53:01+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/voice/sendvoice
+[运行时间：0.034413s] [吞吐率：29.06req/s] [内存消耗：3,353.77kb] [文件加载：173]
+[ error ] [0]方法参数错误:filepath[F:\WebWork\blog\thinkphp\library\think\App.php:431]
+---------------------------------------------------------------
+[ 2021-02-20T15:53:21+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/voice/sendvoice
+[运行时间：0.034366s] [吞吐率：29.10req/s] [内存消耗：3,371.02kb] [文件加载：173]
+[ error ] [0]方法参数错误:filepath[F:\WebWork\blog\thinkphp\library\think\App.php:431]
+---------------------------------------------------------------
+[ 2021-02-20T15:54:02+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/voice/sendvoice
+[运行时间：0.035284s] [吞吐率：28.34req/s] [内存消耗：3,371.24kb] [文件加载：173]
+[ error ] [0]方法参数错误:filepath[F:\WebWork\blog\thinkphp\library\think\App.php:431]
+---------------------------------------------------------------
+[ 2021-02-20T15:54:27+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/voice/sendvoice
+[运行时间：0.044016s] [吞吐率：22.72req/s] [内存消耗：3,371.24kb] [文件加载：173]
+[ error ] [0]方法参数错误:filepath[F:\WebWork\blog\thinkphp\library\think\App.php:431]
+---------------------------------------------------------------
+[ 2021-02-20T15:55:44+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/voice/sendvoice
+[运行时间：0.055678s] [吞吐率：17.96req/s] [内存消耗：3,991.67kb] [文件加载：179]
+[ error ] [0]方法参数错误:filepath[F:\WebWork\blog\thinkphp\library\think\App.php:431]
+---------------------------------------------------------------
+[ 2021-02-20T15:56:15+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/voice/sendvoice
+[运行时间：0.038699s] [吞吐率：25.84req/s] [内存消耗：3,991.67kb] [文件加载：179]
+[ error ] [0]方法参数错误:filepath[F:\WebWork\blog\thinkphp\library\think\App.php:431]
+---------------------------------------------------------------
+[ 2021-02-20T15:56:25+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/voice/sendvoice
+[运行时间：0.044033s] [吞吐率：22.71req/s] [内存消耗：4,667.51kb] [文件加载：179]
+[ error ] [0]方法参数错误:filepath[F:\WebWork\blog\thinkphp\library\think\App.php:431]
+---------------------------------------------------------------
+[ 2021-02-20T15:56:31+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/voice/sendvoice
+[运行时间：0.051381s] [吞吐率：19.46req/s] [内存消耗：4,667.51kb] [文件加载：179]
+[ error ] [0]方法参数错误:filepath[F:\WebWork\blog\thinkphp\library\think\App.php:431]
+---------------------------------------------------------------
+[ 2021-02-20T15:56:51+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/voice/sendvoice
+[运行时间：0.040165s] [吞吐率：24.90req/s] [内存消耗：4,667.57kb] [文件加载：179]
+[ error ] [0]方法参数错误:aaah[F:\WebWork\blog\thinkphp\library\think\App.php:431]
+---------------------------------------------------------------
+[ 2021-02-20T16:48:34+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/voice/sendvoice
+[运行时间：0.057626s] [吞吐率：17.35req/s] [内存消耗：3,975.17kb] [文件加载：179]
+[ error ] [0]方法参数错误:filepath[F:\WebWork\blog\thinkphp\library\think\App.php:431]
+---------------------------------------------------------------
+[ 2021-02-20T16:48:58+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/voice/sendvoice
+[运行时间：0.050238s] [吞吐率：19.91req/s] [内存消耗：3,975.17kb] [文件加载：179]
+[ error ] [0]方法参数错误:filepath[F:\WebWork\blog\thinkphp\library\think\App.php:431]
+---------------------------------------------------------------
+[ 2021-02-20T16:49:47+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/voice/sendvoice
+[运行时间：0.073247s] [吞吐率：13.65req/s] [内存消耗：3,991.74kb] [文件加载：179]
+[ error ] [0]方法参数错误:filepath[F:\WebWork\blog\thinkphp\library\think\App.php:431]
+---------------------------------------------------------------
+[ 2021-02-20T16:49:51+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/voice/sendvoice
+[运行时间：0.046480s] [吞吐率：21.51req/s] [内存消耗：3,991.74kb] [文件加载：179]
+[ error ] [0]方法参数错误:filepath[F:\WebWork\blog\thinkphp\library\think\App.php:431]
+---------------------------------------------------------------
+[ 2021-02-20T16:50:33+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/voice/sendvoice
+[运行时间：0.041189s] [吞吐率：24.28req/s] [内存消耗：3,991.74kb] [文件加载：179]
+[ error ] [0]方法参数错误:filepath[F:\WebWork\blog\thinkphp\library\think\App.php:431]
+---------------------------------------------------------------
+[ 2021-02-20T16:50:38+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/voice/sendvoice
+[运行时间：0.043259s] [吞吐率：23.12req/s] [内存消耗：3,991.74kb] [文件加载：179]
+[ error ] [0]方法参数错误:filepath[F:\WebWork\blog\thinkphp\library\think\App.php:431]
+---------------------------------------------------------------
+[ 2021-02-20T16:50:42+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/voice/sendvoice
+[运行时间：0.043863s] [吞吐率：22.80req/s] [内存消耗：3,991.74kb] [文件加载：179]
+[ error ] [0]方法参数错误:filepath[F:\WebWork\blog\thinkphp\library\think\App.php:431]
+---------------------------------------------------------------
+[ 2021-02-20T16:51:18+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/voice/sendvoice
+[运行时间：0.048586s] [吞吐率：20.58req/s] [内存消耗：3,991.74kb] [文件加载：179]
+[ error ] [0]方法参数错误:filepath[F:\WebWork\blog\thinkphp\library\think\App.php:431]
+---------------------------------------------------------------
+[ 2021-02-20T16:51:40+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/voice/sendvoice
+[运行时间：0.038885s] [吞吐率：25.72req/s] [内存消耗：3,991.74kb] [文件加载：179]
+[ error ] [0]方法参数错误:filepath[F:\WebWork\blog\thinkphp\library\think\App.php:431]
+---------------------------------------------------------------
+[ 2021-02-20T16:51:47+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/voice/sendvoice
+[运行时间：0.042337s] [吞吐率：23.62req/s] [内存消耗：3,991.74kb] [文件加载：179]
+[ error ] [0]方法参数错误:filepath[F:\WebWork\blog\thinkphp\library\think\App.php:431]
+---------------------------------------------------------------
+[ 2021-02-20T16:52:05+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/voice/sendvoice
+[运行时间：0.056499s] [吞吐率：17.70req/s] [内存消耗：3,991.74kb] [文件加载：179]
+[ error ] [0]方法参数错误:filepath[F:\WebWork\blog\thinkphp\library\think\App.php:431]
+---------------------------------------------------------------
+[ 2021-02-20T16:52:19+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/voice/sendvoice
+[运行时间：0.063376s] [吞吐率：15.78req/s] [内存消耗：3,991.74kb] [文件加载：179]
+[ error ] [0]方法参数错误:filepath[F:\WebWork\blog\thinkphp\library\think\App.php:431]
+---------------------------------------------------------------
+[ 2021-02-20T16:54:08+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/voice/sendvoice
+[运行时间：0.058817s] [吞吐率：17.00req/s] [内存消耗：3,991.74kb] [文件加载：179]
+[ error ] [0]方法参数错误:filepath[F:\WebWork\blog\thinkphp\library\think\App.php:431]
+---------------------------------------------------------------
+[ 2021-02-20T16:54:24+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/voice/sendvoice
+[运行时间：0.038440s] [吞吐率：26.01req/s] [内存消耗：3,974.63kb] [文件加载：179]
+[ error ] [0]方法参数错误:filepath[F:\WebWork\blog\thinkphp\library\think\App.php:431]
+---------------------------------------------------------------
+[ 2021-02-20T16:55:07+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/voice/sendvoice
+[运行时间：0.039832s] [吞吐率：25.11req/s] [内存消耗：3,974.08kb] [文件加载：179]
+[ error ] [0]方法参数错误:filepath[F:\WebWork\blog\thinkphp\library\think\App.php:431]
+---------------------------------------------------------------
+[ 2021-02-20T16:55:08+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/voice/sendvoice
+[运行时间：0.038742s] [吞吐率：25.81req/s] [内存消耗：3,974.08kb] [文件加载：179]
+[ error ] [0]方法参数错误:filepath[F:\WebWork\blog\thinkphp\library\think\App.php:431]
+---------------------------------------------------------------
+[ 2021-02-20T16:55:37+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/voice/sendvoice
+[运行时间：0.045718s] [吞吐率：21.87req/s] [内存消耗：3,974.08kb] [文件加载：179]
+[ error ] [0]方法参数错误:filepath[F:\WebWork\blog\thinkphp\library\think\App.php:431]
+---------------------------------------------------------------
+[ 2021-02-20T16:56:24+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/voice/sendvoice?filepath=F:/Test.acc&printCutResponse=1
+[运行时间：0.049950s] [吞吐率：20.02req/s] [内存消耗：3,998.20kb] [文件加载：180]
+[ error ] [0]致命错误: Call to undefined function app\api\controller\randstr()[F:\WebWork\blog\application\api\controller\Voice.php:33]
+---------------------------------------------------------------
+[ 2021-02-20T17:00:55+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/voice/sendvoice?filepath=F:/Test.acc&printCutResponse=1
+[运行时间：0.101378s] [吞吐率：9.86req/s] [内存消耗：4,002.20kb] [文件加载：181]
+[ error ] [2]file_get_contents(F:/Test.acc): failed to open stream: No such file or directory[F:\WebWork\blog\application\api\controller\Voice.php:43]
+---------------------------------------------------------------
+[ 2021-02-20T17:02:00+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/voice/sendvoice?filepath=f:Test.acc&printCutResponse=1
+[运行时间：0.040145s] [吞吐率：24.91req/s] [内存消耗：4,002.20kb] [文件加载：181]
+[ error ] [2]file_get_contents(f:Test.acc): failed to open stream: No such file or directory[F:\WebWork\blog\application\api\controller\Voice.php:43]
+---------------------------------------------------------------
+[ 2021-02-20T17:02:10+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/voice/sendvoice?filepath=f:/Test.acc&printCutResponse=1
+[运行时间：0.051163s] [吞吐率：19.55req/s] [内存消耗：4,002.20kb] [文件加载：181]
+[ error ] [2]file_get_contents(f:/Test.acc): failed to open stream: No such file or directory[F:\WebWork\blog\application\api\controller\Voice.php:43]
+---------------------------------------------------------------
+[ 2021-02-20T17:02:35+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/voice/sendvoice?filepath=C:\Users\Administrator\Desktop\testTest.acc&printCutResponse=1
+[运行时间：0.047700s] [吞吐率：20.96req/s] [内存消耗：4,002.31kb] [文件加载：181]
+[ error ] [2]file_get_contents(C:\Users\Administrator\Desktop\testTest.acc): failed to open stream: No such file or directory[F:\WebWork\blog\application\api\controller\Voice.php:43]
+---------------------------------------------------------------
+[ 2021-02-20T17:02:55+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/voice/sendvoice?filepath=C:/Users/Administrator/Desktop/test/Test.acc&printCutResponse=1
+[运行时间：0.040398s] [吞吐率：24.75req/s] [内存消耗：4,002.31kb] [文件加载：181]
+[ error ] [2]file_get_contents(C:/Users/Administrator/Desktop/test/Test.acc): failed to open stream: No such file or directory[F:\WebWork\blog\application\api\controller\Voice.php:43]
+---------------------------------------------------------------
+[ 2021-02-20T17:03:42+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/voice/sendvoice?filepath=F:/Work/Test.acc&printCutResponse=1
+[运行时间：0.049321s] [吞吐率：20.28req/s] [内存消耗：4,002.20kb] [文件加载：181]
+[ error ] [2]file_get_contents(F:/Work/Test.acc): failed to open stream: No such file or directory[F:\WebWork\blog\application\api\controller\Voice.php:43]
+---------------------------------------------------------------
+[ 2021-02-20T17:04:11+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/voice/sendvoice?filepath=F:/Work/test.acc&printCutResponse=1
+[运行时间：0.049688s] [吞吐率：20.13req/s] [内存消耗：4,002.20kb] [文件加载：181]
+[ error ] [2]file_get_contents(F:/Work/test.acc): failed to open stream: No such file or directory[F:\WebWork\blog\application\api\controller\Voice.php:43]
+---------------------------------------------------------------
+[ 2021-02-20T17:04:20+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/voice/sendvoice?filepath=F:/Work/Test.acc&printCutResponse=1
+[运行时间：0.039773s] [吞吐率：25.14req/s] [内存消耗：4,002.20kb] [文件加载：181]
+[ error ] [2]file_get_contents(F:/Work/Test.acc): failed to open stream: No such file or directory[F:\WebWork\blog\application\api\controller\Voice.php:43]
+---------------------------------------------------------------
+[ 2021-02-20T17:05:57+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/voice/sendvoice?filepath=F:/Work/test.m4a&printCutResponse=1
+[运行时间：0.052984s] [吞吐率：18.87req/s] [内存消耗：4,000.84kb] [文件加载：180]
+[ error ] [0]致命错误: Call to undefined function app\api\controller\createSign()[F:\WebWork\blog\application\api\controller\Voice.php:74]
+---------------------------------------------------------------
+[ 2021-02-20T17:30:32+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/voice/sendvoice?filepath=F:/Work/test.m4a&printCutResponse=1
+[运行时间：0.056060s] [吞吐率：17.84req/s] [内存消耗：4,013.08kb] [文件加载：181]
+[ error ] [2]hash_hmac() expects parameter 2 to be string, array given[F:\WebWork\blog\application\api\controller\Voice.php:118]
+---------------------------------------------------------------
+[ 2021-02-20T17:31:14+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/voice/sendvoice?filepath=F:/Work/test.m4a&printCutResponse=1
+[运行时间：0.059392s] [吞吐率：16.84req/s] [内存消耗：4,013.13kb] [文件加载：181]
+[ error ] [2]hash_hmac() expects parameter 2 to be string, array given[F:\WebWork\blog\application\api\controller\Voice.php:119]
+---------------------------------------------------------------
+[ 2021-02-20T17:31:35+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/voice/sendvoice?filepath=F:/Work/test.m4a&printCutResponse=1
+[运行时间：0.041426s] [吞吐率：24.14req/s] [内存消耗：4,013.13kb] [文件加载：181]
+[ error ] [2]hash_hmac() expects parameter 2 to be string, array given[F:\WebWork\blog\application\api\controller\Voice.php:119]
+---------------------------------------------------------------
+[ 2021-02-20T17:31:50+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/voice/sendvoice?filepath=F:/Work/test.m4a&printCutResponse=1
+[运行时间：0.043402s] [吞吐率：23.04req/s] [内存消耗：4,013.08kb] [文件加载：181]
+[ error ] [2]hash_hmac() expects parameter 2 to be string, array given[F:\WebWork\blog\application\api\controller\Voice.php:118]
+---------------------------------------------------------------
+[ 2021-02-20T17:32:28+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/voice/sendvoice?filepath=F:/Work/test.m4a&printCutResponse=1
+[运行时间：0.106753s] [吞吐率：9.37req/s] [内存消耗：4,013.32kb] [文件加载：181]
+[ error ] [2]hash_hmac() expects parameter 2 to be string, array given[F:\WebWork\blog\application\api\controller\Voice.php:119]
+---------------------------------------------------------------
+[ 2021-02-20T17:32:51+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/voice/sendvoice?filepath=F:/Work/test.m4a&printCutResponse=1
+[运行时间：0.052876s] [吞吐率：18.91req/s] [内存消耗：4,011.81kb] [文件加载：180]
+[ error ] [0]致命错误: Call to undefined function app\api\controller\http_curl_exec()[F:\WebWork\blog\application\api\controller\Voice.php:90]
+---------------------------------------------------------------
+[ 2021-02-20T17:34:17+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/voice/sendvoice?filepath=F:/Work/test.m4a&printCutResponse=1
+[运行时间：0.081547s] [吞吐率：12.26req/s] [内存消耗：4,013.03kb] [文件加载：181]
+[ error ] [2]curl_exec() expects exactly 1 parameter, 8 given[F:\WebWork\blog\application\api\controller\Voice.php:90]

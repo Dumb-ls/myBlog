@@ -1,4 +1,4 @@
-<?php if (!defined('THINK_PATH')) exit(); /*a:4:{s:82:"F:\WebWork\1.2.0.20201008_full\public/../application/admin\view\version\index.html";i:1611813833;s:73:"F:\WebWork\1.2.0.20201008_full\application\admin\view\layout\default.html";i:1602168705;s:70:"F:\WebWork\1.2.0.20201008_full\application\admin\view\common\meta.html";i:1602168705;s:72:"F:\WebWork\1.2.0.20201008_full\application\admin\view\common\script.html";i:1602168705;}*/ ?>
+<?php if (!defined('THINK_PATH')) exit(); /*a:4:{s:72:"F:\WebWork\blog\public/../application/admin\view\usermsg\recyclebin.html";i:1612429778;s:58:"F:\WebWork\blog\application\admin\view\layout\default.html";i:1602168705;s:55:"F:\WebWork\blog\application\admin\view\common\meta.html";i:1602168705;s:57:"F:\WebWork\blog\application\admin\view\common\script.html";i:1602168705;}*/ ?>
 <!DOCTYPE html>
 <html lang="<?php echo $config['language']; ?>">
     <head>
@@ -66,18 +66,15 @@
             <div class="tab-pane fade active in" id="one">
                 <div class="widget-body no-padding">
                     <div id="toolbar" class="toolbar">
-                        <?php echo build_toolbar(); ?>
-                        <div class="dropdown btn-group <?php echo $auth->check('version/multi')?'':'hide'; ?>">
-                            <a class="btn btn-primary btn-more dropdown-toggle btn-disabled disabled" data-toggle="dropdown"><i class="fa fa-cog"></i> <?php echo __('More'); ?></a>
-                            <ul class="dropdown-menu text-left" role="menu">
-                                <li><a class="btn btn-link btn-multi btn-disabled disabled" href="javascript:;" data-params="status=normal"><i class="fa fa-eye"></i> <?php echo __('Set to normal'); ?></a></li>
-                                <li><a class="btn btn-link btn-multi btn-disabled disabled" href="javascript:;" data-params="status=hidden"><i class="fa fa-eye-slash"></i> <?php echo __('Set to hidden'); ?></a></li>
-                            </ul>
-                        </div>
+                        <?php echo build_toolbar('refresh'); ?>
+                        <a class="btn btn-info btn-multi btn-disabled disabled <?php echo $auth->check('usermsg/restore')?'':'hide'; ?>" href="javascript:;" data-url="usermsg/restore" data-action="restore"><i class="fa fa-rotate-left"></i> <?php echo __('Restore'); ?></a>
+                        <a class="btn btn-danger btn-multi btn-disabled disabled <?php echo $auth->check('usermsg/destroy')?'':'hide'; ?>" href="javascript:;" data-url="usermsg/destroy" data-action="destroy"><i class="fa fa-times"></i> <?php echo __('Destroy'); ?></a>
+                        <a class="btn btn-success btn-restoreall <?php echo $auth->check('usermsg/restore')?'':'hide'; ?>" href="javascript:;" data-url="usermsg/restore" title="<?php echo __('Restore all'); ?>"><i class="fa fa-rotate-left"></i> <?php echo __('Restore all'); ?></a>
+                        <a class="btn btn-danger btn-destroyall <?php echo $auth->check('usermsg/destroy')?'':'hide'; ?>" href="javascript:;" data-url="usermsg/destroy" title="<?php echo __('Destroy all'); ?>"><i class="fa fa-times"></i> <?php echo __('Destroy all'); ?></a>
                     </div>
-                    <table id="table" class="table table-striped table-bordered table-hover" 
-                           data-operate-edit="<?php echo $auth->check('version/edit'); ?>" 
-                           data-operate-del="<?php echo $auth->check('version/del'); ?>" 
+                    <table id="table" class="table table-striped table-bordered table-hover"
+                           data-operate-restore="<?php echo $auth->check('usermsg/restore'); ?>"
+                           data-operate-destroy="<?php echo $auth->check('usermsg/destroy'); ?>"
                            width="100%">
                     </table>
                 </div>

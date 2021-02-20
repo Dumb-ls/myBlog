@@ -1,0 +1,32 @@
+---------------------------------------------------------------
+[ 2021-02-07T16:04:02+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/index/test2?a=1&b=1
+[运行时间：0.161510s] [吞吐率：6.19req/s] [内存消耗：5,221.45kb] [文件加载：227]
+[ error ] [0]致命错误: Call to undefined function app\api\controller\killMonkey()[F:\WebWork\blog\application\api\controller\Index.php:104]
+---------------------------------------------------------------
+[ 2021-02-07T16:04:20+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/index/test2
+[运行时间：0.050047s] [吞吐率：19.98req/s] [内存消耗：5,221.12kb] [文件加载：227]
+[ error ] [0]致命错误: Call to undefined function app\api\controller\killMonkey()[F:\WebWork\blog\application\api\controller\Index.php:104]
+---------------------------------------------------------------
+[ 2021-02-07T16:05:01+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/index/test2
+[运行时间：0.047708s] [吞吐率：20.96req/s] [内存消耗：5,221.05kb] [文件加载：227]
+[ error ] [0]致命错误: Call to undefined method app\api\controller\Index::skillMonkey()[F:\WebWork\blog\application\api\controller\Index.php:104]
+---------------------------------------------------------------
+[ 2021-02-07T16:05:45+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/index/test2
+[运行时间：0.050499s] [吞吐率：19.80req/s] [内存消耗：5,221.05kb] [文件加载：227]
+[ error ] [0]致命错误: Call to undefined method app\api\controller\Index::skillMonkey()[F:\WebWork\blog\application\api\controller\Index.php:104]
+---------------------------------------------------------------
+[ 2021-02-07T16:06:24+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/index/test2
+[运行时间：0.066139s] [吞吐率：15.12req/s] [内存消耗：5,221.05kb] [文件加载：227]
+[ error ] [0]致命错误: Call to undefined method app\api\controller\Index::skillMonkey()[F:\WebWork\blog\application\api\controller\Index.php:104]
+---------------------------------------------------------------
+[ 2021-02-07T16:16:30+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/index/test2
+[运行时间：0.060572s] [吞吐率：16.51req/s] [内存消耗：5,221.12kb] [文件加载：227]
+[ error ] [0]致命错误: Call to undefined function app\api\controller\killMonkey()[F:\WebWork\blog\application\api\controller\Index.php:104]
+---------------------------------------------------------------
+[ 2021-02-07T16:17:41+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/index/test2
+[运行时间：0.063496s] [吞吐率：15.75req/s] [内存消耗：5,221.67kb] [文件加载：227]
+[ error ] [0]致命错误: Call to undefined function app\api\controller\killMonkey()[F:\WebWork\blog\application\api\controller\Index.php:104]
+---------------------------------------------------------------
+[ 2021-02-07T16:23:42+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/index/test2
+[运行时间：0.056576s] [吞吐率：17.68req/s] [内存消耗：5,221.12kb] [文件加载：227]
+[ error ] [0]致命错误: Call to undefined function app\api\controller\killMonkey()[F:\WebWork\blog\application\api\controller\Index.php:105]

@@ -3,6 +3,32 @@
   <component name="ChangeListManager">
     <list default="true" id="b571757f-5af3-4988-b321-aefa480d258e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/api/controller/Index.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/api/controller/Index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/nginx.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/public/nginx.htaccess" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/cache/a8/fa6f96dc43dfbbdd96b8733226f5da.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/cache/cb/78ef4a9130f39208ff10858ddd8377.php" beforeDir="false" afterPath="$PROJECT_DIR$/runtime/cache/cb/78ef4a9130f39208ff10858ddd8377.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/temp/013cf8794f1c75a54c31281374029a74.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/temp/0cbd8c9c22b5dfc578f522db6ef4819e.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/temp/0e11623f222114bfee9176b6220ce0e2.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/temp/19da0840b4a85ed3a8bc418320910d67.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/temp/304d59f6e56d424d7822cced38091894.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/temp/3857efffbbc61f8632e7e9e2a5ba5b3c.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/temp/39a0b32e6ba440b8416708dd2d230679.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/temp/469ed83e80e4d440e2864cbfa61cbef7.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/temp/5a4edad45987d974900839d8694cc821.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/temp/6a673315b1f8270ec0a3c110f7c09e31.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/temp/913b152124ebcfb21e05a3a8ffa298fc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/temp/abe6404438eccbf2b1b8b945c17c8014.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/temp/acb0ebd793fd735a1cd1046f452d65da.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/temp/b3626f439e1cbcba89c804c307f11a23.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/temp/b47daf618068ef4f07d728a00e575a9e.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/temp/cbbc6011d18a816dfbcc414ba21b86f9.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/temp/cbee816ff6f39c9299814406b6bf5f43.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/temp/d0237eb4f4aec52bc634868303c740cb.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/temp/d1f48eefc4a2b742b5cd6c2f37c55925.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/temp/dc0dab6a17007bc5c3748dcb48a7e9c4.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/temp/f1b966f0441bc5040d205b7c63b4b1e7.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/temp/fb63742741c73a51d0f8024faa92c8ea.php" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +49,9 @@
       <filtered-out-file-type name="TAG" />
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -84,8 +113,9 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/tencentcloud-sdk-php-master" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -106,6 +136,16 @@
       <workItem from="1611716538194" duration="13230000" />
       <workItem from="1611814445631" duration="7526000" />
       <workItem from="1611899707867" duration="7394000" />
+      <workItem from="1612319163709" duration="2228000" />
+      <workItem from="1612345230941" duration="850000" />
+      <workItem from="1612429253823" duration="1023000" />
+      <workItem from="1612684133552" duration="3723000" />
+      <workItem from="1613718252613" duration="1457000" />
+      <workItem from="1613729695376" duration="57000" />
+      <workItem from="1613729767598" duration="47000" />
+      <workItem from="1613729829375" duration="599000" />
+      <workItem from="1613785733109" duration="75000" />
+      <workItem from="1613806168055" duration="7713000" />
     </task>
     <servers />
   </component>

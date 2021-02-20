@@ -1,4 +1,4 @@
-<?php if (!defined('THINK_PATH')) exit(); /*a:4:{s:90:"F:\WebWork\1.2.0.20201008_full\public/../application/admin\view\general\crontab\index.html";i:1611813811;s:73:"F:\WebWork\1.2.0.20201008_full\application\admin\view\layout\default.html";i:1602168705;s:70:"F:\WebWork\1.2.0.20201008_full\application\admin\view\common\meta.html";i:1602168705;s:72:"F:\WebWork\1.2.0.20201008_full\application\admin\view\common\script.html";i:1602168705;}*/ ?>
+<?php if (!defined('THINK_PATH')) exit(); /*a:4:{s:68:"F:\WebWork\blog\public/../application/admin\view\command\detail.html";i:1611813395;s:58:"F:\WebWork\blog\application\admin\view\layout\default.html";i:1602168705;s:55:"F:\WebWork\blog\application\admin\view\common\meta.html";i:1602168705;s:57:"F:\WebWork\blog\application\admin\view\common\script.html";i:1602168705;}*/ ?>
 <!DOCTYPE html>
 <html lang="<?php echo $config['language']; ?>">
     <head>
@@ -58,37 +58,48 @@
                             <!-- END RIBBON -->
                             <?php endif; ?>
                             <div class="content">
-                                <div class="panel panel-default panel-intro">
-
-    <div class="panel-heading">
-        <?php echo build_heading(null,FALSE); ?>
-        <ul class="nav nav-tabs" data-field="type">
-            <li class="active"><a href="#t-all" data-value="" data-toggle="tab"><?php echo __('All'); ?></a></li>
-            <?php if(is_array($typeList) || $typeList instanceof \think\Collection || $typeList instanceof \think\Paginator): if( count($typeList)==0 ) : echo "" ;else: foreach($typeList as $key=>$vo): ?>
-            <li><a href="#t-<?php echo $key; ?>" data-value="<?php echo $key; ?>" data-toggle="tab"><?php echo $vo; ?></a></li>
-            <?php endforeach; endif; else: echo "" ;endif; ?>
-        </ul>
-    </div>
-
-    <div class="panel-body">
-        <div id="myTabContent" class="tab-content">
-            <div class="tab-pane fade active in" id="one">
-                <div class="widget-body no-padding">
-                    <div id="toolbar" class="toolbar">
-                        <?php echo build_toolbar('refresh,add,edit,del'); ?>
-                    </div>
-                    <table id="table" class="table table-striped table-bordered table-hover" 
-                           data-operate-edit="<?php echo $auth->check('general/crontab/edit'); ?>" 
-                           data-operate-del="<?php echo $auth->check('general/crontab/del'); ?>" 
-                           width="100%">
-                    </table>
-                </div>
-            </div>
-
-        </div>
+                                <table class="table table-striped">
+    <thead>
+    <tr>
+        <th><?php echo __('Title'); ?></th>
+        <th><?php echo __('Content'); ?></th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td><?php echo __('Type'); ?></td>
+        <td><?php echo $row['type']; ?>(<?php echo $row['type_text']; ?>)</td>
+    </tr>
+    <tr>
+        <td><?php echo __('Params'); ?></td>
+        <td><?php echo $row['params']; ?></td>
+    </tr>
+    <tr>
+        <td><?php echo __('Command'); ?></td>
+        <td><?php echo $row['command']; ?></td>
+    </tr>
+    <tr>
+        <td><?php echo __('Content'); ?></td>
+        <td>
+            <textarea class="form-control" name="" id="" cols="60" rows="10"><?php echo $row['content']; ?></textarea>
+        </td>
+    </tr>
+    <tr>
+        <td><?php echo __('Executetime'); ?></td>
+        <td><?php echo datetime($row['executetime']); ?></td>
+    </tr>
+    <tr>
+        <td><?php echo __('Status'); ?></td>
+        <td><?php echo $row['status_text']; ?></td>
+    </tr>
+    </tbody>
+</table>
+<div class="hide layer-footer">
+    <label class="control-label col-xs-12 col-sm-2"></label>
+    <div class="col-xs-12 col-sm-8">
+        <button type="reset" class="btn btn-primary btn-embossed btn-close" onclick="Layer.closeAll();"><?php echo __('Close'); ?></button>
     </div>
 </div>
-
                             </div>
                         </div>
                     </div>
