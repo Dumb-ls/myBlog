@@ -1,0 +1,102 @@
+---------------------------------------------------------------
+[ 2021-02-20T18:18:50+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get
+[ error ] [0]类型错误: Too few arguments to function think\Model::get(), 0 passed in F:\WebWork\blog\application\api\controller\Get.php on line 15 and at least 1 expected
+---------------------------------------------------------------
+[ 2021-02-20T18:18:58+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get
+[ error ] [0]类型错误: Too few arguments to function think\Model::get(), 0 passed in F:\WebWork\blog\application\api\controller\Get.php on line 15 and at least 1 expected
+---------------------------------------------------------------
+[ 2021-02-20T18:19:17+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get
+[ error ] [0]类型错误: Too few arguments to function think\Model::get(), 0 passed in F:\WebWork\blog\application\api\controller\Get.php on line 15 and at least 1 expected
+---------------------------------------------------------------
+[ 2021-02-20T18:20:58+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get
+[ error ] [0]类型错误: Too few arguments to function think\Model::get(), 0 passed in F:\WebWork\blog\application\api\controller\Get.php on line 15 and at least 1 expected
+---------------------------------------------------------------
+[ 2021-02-20T18:21:05+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get
+[ error ] [0]variable type error： array
+---------------------------------------------------------------
+[ 2021-02-20T18:21:07+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get
+[ error ] [0]variable type error： array
+---------------------------------------------------------------
+[ 2021-02-20T18:22:14+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get
+[ error ] [0]variable type error： array
+---------------------------------------------------------------
+[ 2021-02-20T18:22:15+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get
+[ error ] [0]variable type error： array
+---------------------------------------------------------------
+[ 2021-02-20T18:22:36+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get
+[ error ] [0]variable type error： array
+---------------------------------------------------------------
+[ 2021-02-20T18:23:01+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get
+[ error ] [0]variable type error： array
+---------------------------------------------------------------
+[ 2021-02-20T18:23:22+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get
+[ error ] [0]variable type error： array
+---------------------------------------------------------------
+[ 2021-02-20T18:23:23+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get
+[ error ] [0]variable type error： array
+---------------------------------------------------------------
+[ 2021-02-20T18:23:25+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get
+[ error ] [0]variable type error： array
+---------------------------------------------------------------
+[ 2021-02-20T18:23:26+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get
+[ error ] [0]variable type error： array
+---------------------------------------------------------------
+[ 2021-02-20T18:23:56+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get
+[ error ] [0]variable type error： array
+---------------------------------------------------------------
+[ 2021-02-20T18:24:42+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get
+[ error ] [0]variable type error： array
+---------------------------------------------------------------
+[ 2021-02-20T18:24:43+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get
+[ error ] [0]variable type error： array
+---------------------------------------------------------------
+[ 2021-02-20T18:25:22+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get
+[ error ] [0]variable type error： array
+---------------------------------------------------------------
+[ 2021-02-20T18:25:28+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get
+[ error ] [0]variable type error： array
+---------------------------------------------------------------
+[ 2021-02-20T18:26:22+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get
+[ error ] [0]variable type error： array
+---------------------------------------------------------------
+[ 2021-02-20T18:26:29+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get
+[ error ] [0]variable type error： array
+---------------------------------------------------------------
+[ 2021-02-20T18:26:34+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get
+[ error ] [0]variable type error： array
+---------------------------------------------------------------
+[ 2021-02-20T18:27:10+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get
+[ error ] [0]variable type error： array
+---------------------------------------------------------------
+[ 2021-02-20T18:27:28+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get
+[ error ] [0]variable type error： array
+---------------------------------------------------------------
+[ 2021-02-20T18:28:11+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get
+[ error ] [0]variable type error： array
+---------------------------------------------------------------
+[ 2021-02-20T18:29:17+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get
+[ error ] [0]variable type error： array
+---------------------------------------------------------------
+[ 2021-02-20T18:30:03+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get
+[ error ] [0]variable type error： array
+---------------------------------------------------------------
+[ 2021-02-20T18:33:20+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get
+[ error ] [0]语法解析错误: syntax error, unexpected '}'
+---------------------------------------------------------------
+[ 2021-02-20T18:33:26+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get
+[ error ] [0]语法解析错误: syntax error, unexpected '}'
+---------------------------------------------------------------
+[ 2021-02-20T18:33:39+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get
+[ error ] [0]语法解析错误: syntax error, unexpected '}'
+---------------------------------------------------------------
+[ 2021-02-20T18:33:46+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get
+[ error ] [0]语法解析错误: syntax error, unexpected '}'
+---------------------------------------------------------------
+[ 2021-02-20T18:41:11+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/update?id=1&gender=%E7%94%B7%E4%BA%BA
+[ error ] [0]method not exist:think\db\Query->save
+---------------------------------------------------------------
+[ 2021-02-20T18:51:08+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get
+[ error ] [1]Method app\common\model\Ss::__toString() must not throw an exception, caught InvalidArgumentException: property not exists:app\common\model\Ss->room
+---------------------------------------------------------------
+[ 2021-02-20T18:51:23+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get
+[ error ] [1]Method app\common\model\Ss::__toString() must not throw an exception, caught InvalidArgumentException: property not exists:app\common\model\Ss->408
