@@ -18,3 +18,31 @@
 [ 2021-03-11T19:26:45+08:00 ] 127.0.0.1 GET www.ls.com/a.php
 [运行时间：0.092594s] [吞吐率：10.80req/s] [内存消耗：5,479.16kb] [文件加载：194]
 [ error ] [8]unserialize(): Error at offset 0 of 11602 bytes[F:\WebWork\blog\thinkphp\library\think\cache\driver\File.php:126]
+---------------------------------------------------------------
+[ 2021-03-11T19:28:26+08:00 ] 127.0.0.1 GET www.ls.com/a.php
+[运行时间：0.076970s] [吞吐率：12.99req/s] [内存消耗：5,479.16kb] [文件加载：194]
+[ error ] [8]unserialize(): Error at offset 0 of 11602 bytes[F:\WebWork\blog\thinkphp\library\think\cache\driver\File.php:126]
+---------------------------------------------------------------
+[ 2021-03-11T19:28:28+08:00 ] 127.0.0.1 GET www.ls.com/a.php
+[运行时间：0.084322s] [吞吐率：11.86req/s] [内存消耗：5,479.16kb] [文件加载：194]
+[ error ] [8]unserialize(): Error at offset 0 of 11602 bytes[F:\WebWork\blog\thinkphp\library\think\cache\driver\File.php:126]
+---------------------------------------------------------------
+[ 2021-03-11T19:28:29+08:00 ] 127.0.0.1 GET www.ls.com/a.php
+[运行时间：0.075713s] [吞吐率：13.21req/s] [内存消耗：5,479.16kb] [文件加载：194]
+[ error ] [8]unserialize(): Error at offset 0 of 11602 bytes[F:\WebWork\blog\thinkphp\library\think\cache\driver\File.php:126]
+---------------------------------------------------------------
+[ 2021-03-11T19:28:29+08:00 ] 127.0.0.1 GET www.ls.com/a.php
+[运行时间：0.091270s] [吞吐率：10.96req/s] [内存消耗：5,479.16kb] [文件加载：194]
+[ error ] [8]unserialize(): Error at offset 0 of 11602 bytes[F:\WebWork\blog\thinkphp\library\think\cache\driver\File.php:126]
+---------------------------------------------------------------
+[ 2021-03-11T19:28:30+08:00 ] 127.0.0.1 GET www.ls.com/a.php
+[运行时间：0.090123s] [吞吐率：11.10req/s] [内存消耗：5,479.16kb] [文件加载：194]
+[ error ] [8]unserialize(): Error at offset 0 of 11602 bytes[F:\WebWork\blog\thinkphp\library\think\cache\driver\File.php:126]
+---------------------------------------------------------------
+[ 2021-03-11T19:28:30+08:00 ] 127.0.0.1 GET www.ls.com/a.php
+[运行时间：0.097647s] [吞吐率：10.24req/s] [内存消耗：5,479.16kb] [文件加载：194]
+[ error ] [8]unserialize(): Error at offset 0 of 11602 bytes[F:\WebWork\blog\thinkphp\library\think\cache\driver\File.php:126]
+---------------------------------------------------------------
+[ 2021-03-11T19:28:30+08:00 ] 127.0.0.1 GET www.ls.com/a.php
+[运行时间：0.092824s] [吞吐率：10.77req/s] [内存消耗：5,479.16kb] [文件加载：194]
+[ error ] [8]unserialize(): Error at offset 0 of 11602 bytes[F:\WebWork\blog\thinkphp\library\think\cache\driver\File.php:126]
