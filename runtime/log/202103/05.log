@@ -1,0 +1,191 @@
+---------------------------------------------------------------
+[ 2021-03-05T10:03:10+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/addTable
+[ error ] [2]strlen() expects parameter 1 to be string, object given
+---------------------------------------------------------------
+[ 2021-03-05T10:08:47+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/addTable
+[ error ] [2]strlen() expects parameter 1 to be string, object given
+---------------------------------------------------------------
+[ 2021-03-05T10:09:43+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/addTable
+[ error ] [0]ERR wrong number of arguments for 'hmget' command
+---------------------------------------------------------------
+[ 2021-03-05T10:10:21+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/addTable
+[ error ] [0]variable type error： array
+---------------------------------------------------------------
+[ 2021-03-05T10:10:22+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/addTable
+[ error ] [0]variable type error： array
+---------------------------------------------------------------
+[ 2021-03-05T10:10:51+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/addTable
+[ error ] [0]variable type error： array
+---------------------------------------------------------------
+[ 2021-03-05T10:12:38+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/addTable
+[ error ] [2]strlen() expects parameter 1 to be string, array given
+---------------------------------------------------------------
+[ 2021-03-05T10:13:13+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/addTable
+[ error ] [2]strlen() expects parameter 1 to be string, array given
+---------------------------------------------------------------
+[ 2021-03-05T10:13:15+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/addTable
+[ error ] [2]strlen() expects parameter 1 to be string, array given
+---------------------------------------------------------------
+[ 2021-03-05T10:14:28+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/addTable
+[ error ] [2]strlen() expects parameter 1 to be string, array given
+---------------------------------------------------------------
+[ 2021-03-05T10:17:22+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/addTable
+[ error ] [8]未定义数组索引: {"isSign":0,"isBox":0,"box":0}
+---------------------------------------------------------------
+[ 2021-03-05T10:19:27+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/addTable
+[ error ] [0]variable type error： object
+---------------------------------------------------------------
+[ 2021-03-05T10:19:34+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/addTable
+[ error ] [0]variable type error： array
+---------------------------------------------------------------
+[ 2021-03-05T10:19:35+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/addTable
+[ error ] [0]variable type error： array
+---------------------------------------------------------------
+[ 2021-03-05T10:19:36+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/addTable
+[ error ] [0]variable type error： array
+---------------------------------------------------------------
+[ 2021-03-05T10:19:36+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/addTable
+[ error ] [0]variable type error： array
+---------------------------------------------------------------
+[ 2021-03-05T10:19:36+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/addTable
+[ error ] [0]variable type error： array
+---------------------------------------------------------------
+[ 2021-03-05T10:19:36+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/addTable
+[ error ] [0]variable type error： array
+---------------------------------------------------------------
+[ 2021-03-05T10:19:36+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/addTable
+[ error ] [0]variable type error： array
+---------------------------------------------------------------
+[ 2021-03-05T10:23:00+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/addTable
+[ error ] [2]json_decode() expects parameter 1 to be string, array given
+---------------------------------------------------------------
+[ 2021-03-05T10:24:52+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/addTable
+[ error ] [0]variable type error： array
+---------------------------------------------------------------
+[ 2021-03-05T10:24:53+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/addTable
+[ error ] [0]variable type error： array
+---------------------------------------------------------------
+[ 2021-03-05T10:28:07+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/addTable
+[ error ] [0]variable type error： array
+---------------------------------------------------------------
+[ 2021-03-05T11:51:55+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getMsg
+[ error ] [0]variable type error： boolean
+---------------------------------------------------------------
+[ 2021-03-05T13:06:07+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[ error ] [2]Invalid argument supplied for foreach()
+---------------------------------------------------------------
+[ 2021-03-05T13:07:04+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/addTable
+[ error ] [8]未定义数组下标: 1
+---------------------------------------------------------------
+[ 2021-03-05T13:07:21+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[ error ] [2]unserialize() expects parameter 2 to be array, boolean given
+---------------------------------------------------------------
+[ 2021-03-05T13:07:39+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[ error ] [2]unserialize() expects parameter 2 to be array, boolean given
+---------------------------------------------------------------
+[ 2021-03-05T13:08:15+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[ error ] [8]未定义变量: kandian
+---------------------------------------------------------------
+[ 2021-03-05T13:08:34+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.168460s] [吞吐率：5.94req/s] [内存消耗：4,922.22kb] [文件加载：206]
+[ error ] [8]未定义变量: kandian[F:\WebWork\blog\application\api\controller\Get.php:115]
+---------------------------------------------------------------
+[ 2021-03-05T13:15:35+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian?day=29
+[运行时间：0.061348s] [吞吐率：16.30req/s] [内存消耗：4,922.67kb] [文件加载：206]
+[ error ] [8]未定义变量: kandian[F:\WebWork\blog\application\api\controller\Get.php:115]
+---------------------------------------------------------------
+[ 2021-03-05T13:16:32+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian?day=28
+[运行时间：0.073499s] [吞吐率：13.61req/s] [内存消耗：4,922.61kb] [文件加载：206]
+[ error ] [8]未定义变量: kandian[F:\WebWork\blog\application\api\controller\Get.php:115]
+---------------------------------------------------------------
+[ 2021-03-05T13:19:08+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/addTable
+[运行时间：0.115667s] [吞吐率：8.65req/s] [内存消耗：5,066.11kb] [文件加载：212]
+[ error ] [8]未定义数组下标: 1[F:\WebWork\blog\application\api\controller\Get.php:88]
+---------------------------------------------------------------
+[ 2021-03-05T13:19:22+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian?day=28
+[运行时间：0.117372s] [吞吐率：8.52req/s] [内存消耗：4,922.61kb] [文件加载：206]
+[ error ] [8]未定义变量: kandian[F:\WebWork\blog\application\api\controller\Get.php:115]
+---------------------------------------------------------------
+[ 2021-03-05T13:19:23+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian?day=28
+[运行时间：0.107407s] [吞吐率：9.31req/s] [内存消耗：4,922.61kb] [文件加载：206]
+[ error ] [8]未定义变量: kandian[F:\WebWork\blog\application\api\controller\Get.php:115]
+---------------------------------------------------------------
+[ 2021-03-05T13:19:32+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian?day=28
+[运行时间：0.070863s] [吞吐率：14.11req/s] [内存消耗：4,922.61kb] [文件加载：206]
+[ error ] [8]未定义变量: kandian[F:\WebWork\blog\application\api\controller\Get.php:115]
+---------------------------------------------------------------
+[ 2021-03-05T13:19:33+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian?day=28
+[运行时间：0.130695s] [吞吐率：7.65req/s] [内存消耗：4,922.61kb] [文件加载：206]
+[ error ] [8]未定义变量: kandian[F:\WebWork\blog\application\api\controller\Get.php:115]
+---------------------------------------------------------------
+[ 2021-03-05T13:20:43+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/addTable
+[运行时间：0.094420s] [吞吐率：10.59req/s] [内存消耗：5,066.27kb] [文件加载：212]
+[ error ] [8]未定义数组下标: 1[F:\WebWork\blog\application\api\controller\Get.php:88]
+---------------------------------------------------------------
+[ 2021-03-05T13:36:37+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/addTable
+[运行时间：0.081704s] [吞吐率：12.24req/s] [内存消耗：5,066.91kb] [文件加载：212]
+[ error ] [2]unserialize() expects parameter 1 to be string, array given[F:\WebWork\blog\application\api\controller\Get.php:84]
+---------------------------------------------------------------
+[ 2021-03-05T13:40:37+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/addTable
+[运行时间：0.074725s] [吞吐率：13.38req/s] [内存消耗：5,066.13kb] [文件加载：212]
+[ error ] [8]未定义数组下标: 1[F:\WebWork\blog\application\api\controller\Get.php:82]
+---------------------------------------------------------------
+[ 2021-03-05T13:41:45+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/addTable
+[运行时间：0.069237s] [吞吐率：14.44req/s] [内存消耗：5,066.13kb] [文件加载：212]
+[ error ] [8]未定义数组下标: 1[F:\WebWork\blog\application\api\controller\Get.php:82]
+---------------------------------------------------------------
+[ 2021-03-05T13:44:13+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/addTable
+[运行时间：0.071458s] [吞吐率：13.99req/s] [内存消耗：5,066.62kb] [文件加载：212]
+[ error ] [8]unserialize(): Error at offset 0 of 30 bytes[F:\WebWork\blog\application\api\controller\Get.php:74]
+---------------------------------------------------------------
+[ 2021-03-05T13:44:31+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/addTable
+[运行时间：0.135168s] [吞吐率：7.40req/s] [内存消耗：5,066.65kb] [文件加载：212]
+[ error ] [2]unserialize() expects parameter 1 to be string, array given[F:\WebWork\blog\application\api\controller\Get.php:74]
+---------------------------------------------------------------
+[ 2021-03-05T16:12:51+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/addTable
+[运行时间：0.105635s] [吞吐率：9.47req/s] [内存消耗：5,067.16kb] [文件加载：212]
+[ error ] [8]未定义数组下标: 1[F:\WebWork\blog\application\api\controller\Get.php:84]
+---------------------------------------------------------------
+[ 2021-03-05T16:26:01+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/addTable
+[运行时间：0.071228s] [吞吐率：14.04req/s] [内存消耗：5,066.84kb] [文件加载：212]
+[ error ] [8]未定义数组下标: 1[F:\WebWork\blog\application\api\controller\Get.php:84]
+---------------------------------------------------------------
+[ 2021-03-05T16:33:48+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getMsg
+[运行时间：0.085416s] [吞吐率：11.71req/s] [内存消耗：4,927.83kb] [文件加载：208]
+[ error ] [0]致命错误: Call to a member function param() on null[F:\WebWork\blog\application\common\controller\Api.php:202]
+---------------------------------------------------------------
+[ 2021-03-05T16:34:02+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getMsg
+[运行时间：0.065269s] [吞吐率：15.32req/s] [内存消耗：4,927.83kb] [文件加载：208]
+[ error ] [0]致命错误: Call to a member function param() on null[F:\WebWork\blog\application\common\controller\Api.php:202]
+---------------------------------------------------------------
+[ 2021-03-05T16:34:19+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getMsg
+[运行时间：0.051467s] [吞吐率：19.43req/s] [内存消耗：3,354.56kb] [文件加载：173]
+[ error ] [0]语法解析错误: syntax error, unexpected '$this' (T_VARIABLE)[F:\WebWork\blog\application\api\controller\Get.php:98]
+---------------------------------------------------------------
+[ 2021-03-05T16:34:25+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getMsg
+[运行时间：0.067858s] [吞吐率：14.74req/s] [内存消耗：4,927.83kb] [文件加载：208]
+[ error ] [0]致命错误: Call to a member function param() on null[F:\WebWork\blog\application\common\controller\Api.php:202]
+---------------------------------------------------------------
+[ 2021-03-05T16:35:01+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getMsg
+[运行时间：0.075035s] [吞吐率：13.33req/s] [内存消耗：4,927.83kb] [文件加载：208]
+[ error ] [0]致命错误: Call to a member function param() on null[F:\WebWork\blog\application\common\controller\Api.php:202]
+---------------------------------------------------------------
+[ 2021-03-05T16:35:44+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getMsg
+[运行时间：0.057797s] [吞吐率：17.30req/s] [内存消耗：4,638.10kb] [文件加载：183]
+[ error ] [0]致命错误: Call to a member function param() on null[F:\WebWork\blog\application\common\controller\Api.php:202]
+---------------------------------------------------------------
+[ 2021-03-05T16:35:46+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getMsg
+[运行时间：0.075712s] [吞吐率：13.21req/s] [内存消耗：4,638.10kb] [文件加载：183]
+[ error ] [0]致命错误: Call to a member function param() on null[F:\WebWork\blog\application\common\controller\Api.php:202]
+---------------------------------------------------------------
+[ 2021-03-05T16:36:15+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getMsg
+[运行时间：0.059607s] [吞吐率：16.78req/s] [内存消耗：4,638.10kb] [文件加载：183]
+[ error ] [0]致命错误: Call to a member function param() on null[F:\WebWork\blog\application\common\controller\Api.php:202]
+---------------------------------------------------------------
+[ 2021-03-05T16:38:33+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getMsg
+[运行时间：0.095236s] [吞吐率：10.50req/s] [内存消耗：4,927.80kb] [文件加载：208]
+[ error ] [0]致命错误: Call to a member function param() on null[F:\WebWork\blog\application\common\controller\Api.php:202]
+---------------------------------------------------------------
+[ 2021-03-05T16:39:10+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian?day=30
+[运行时间：0.061023s] [吞吐率：16.39req/s] [内存消耗：4,921.73kb] [文件加载：205]
+[ error ] [0]致命错误: Call to a member function param() on null[F:\WebWork\blog\application\common\controller\Api.php:202]

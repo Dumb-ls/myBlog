@@ -34,4 +34,11 @@ class Ss extends Model
         return 408;
     }
 
+    public static function getOne($id)
+    {
+        $data = self::get($id);
+//        return $data;
+        return $data->toArray();
+    }
+
 }

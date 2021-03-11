@@ -1,0 +1,66 @@
+---------------------------------------------------------------
+[ 2021-03-04T10:14:37+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/addTable
+[ error ] [10501]SQLSTATE[42S21]: Column already exists: 1060 Duplicate column name 'etime'
+---------------------------------------------------------------
+[ 2021-03-04T14:40:53+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/addTable
+[ error ] [2]rand() expects exactly 2 parameters, 1 given
+---------------------------------------------------------------
+[ 2021-03-04T16:55:44+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/addTable
+[ error ] [8]未定义变量: day
+---------------------------------------------------------------
+[ 2021-03-04T16:57:27+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/addTable
+[ error ] [8]未定义变量: day
+---------------------------------------------------------------
+[ 2021-03-04T16:58:08+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/addTable
+[ error ] [0]WRONGTYPE Operation against a key holding the wrong kind of value
+---------------------------------------------------------------
+[ 2021-03-04T16:58:43+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/addTable
+[ error ] [0]WRONGTYPE Operation against a key holding the wrong kind of value
+---------------------------------------------------------------
+[ 2021-03-04T16:58:55+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/addTable
+[ error ] [0]WRONGTYPE Operation against a key holding the wrong kind of value
+---------------------------------------------------------------
+[ 2021-03-04T17:09:14+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/addTable
+[ error ] [0]WRONGTYPE Operation against a key holding the wrong kind of value
+---------------------------------------------------------------
+[ 2021-03-04T17:11:44+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/addTable
+[ error ] [8]未定义变量: day
+---------------------------------------------------------------
+[ 2021-03-04T17:12:42+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/addTable
+[ error ] [8]Undefined property: app\api\controller\Get::$connectUserId
+---------------------------------------------------------------
+[ 2021-03-04T17:13:01+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/addTable
+[ error ] [8]Undefined property: app\api\controller\Get::$connectUserId
+---------------------------------------------------------------
+[ 2021-03-04T17:13:06+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/addTable
+[ error ] [8]Undefined property: app\api\controller\Get::$connectUserId
+---------------------------------------------------------------
+[ 2021-03-04T17:14:39+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/addTable
+[ error ] [8]未定义变量: day
+---------------------------------------------------------------
+[ 2021-03-04T17:15:13+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/addTable
+[ error ] [0]variable type error： array
+---------------------------------------------------------------
+[ 2021-03-04T17:15:41+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/addTable
+[ error ] [0]variable type error： array
+---------------------------------------------------------------
+[ 2021-03-04T17:16:27+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/addTable
+[ error ] [0]variable type error： array
+---------------------------------------------------------------
+[ 2021-03-04T17:16:33+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/addTable
+[ error ] [0]variable type error： array
+---------------------------------------------------------------
+[ 2021-03-04T17:17:26+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/addTable
+[ error ] [0]variable type error： array
+---------------------------------------------------------------
+[ 2021-03-04T17:17:43+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/addTable
+[ error ] [0]variable type error： array
+---------------------------------------------------------------
+[ 2021-03-04T17:20:18+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/addTable
+[ error ] [8]未定义变量: day
+---------------------------------------------------------------
+[ 2021-03-04T17:21:31+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/addTable
+[ error ] [8]未定义变量: day
+---------------------------------------------------------------
+[ 2021-03-04T18:25:48+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getMsg
+[ error ] [8]A non well formed numeric value encountered

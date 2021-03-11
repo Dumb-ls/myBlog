@@ -1,0 +1,4 @@
+---------------------------------------------------------------
+[ 2021-03-10T13:37:59+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian?day=30
+[运行时间：0.683279s] [吞吐率：1.46req/s] [内存消耗：4,923.61kb] [文件加载：206]
+[ error ] [2]Invalid argument supplied for foreach()[F:\WebWork\blog\application\api\controller\Get.php:106]

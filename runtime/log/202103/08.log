@@ -1,0 +1,4 @@
+---------------------------------------------------------------
+[ 2021-03-08T14:13:56+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian?day=30
+[运行时间：0.082329s] [吞吐率：12.15req/s] [内存消耗：3,354.94kb] [文件加载：173]
+[ error ] [0]语法解析错误: syntax error, unexpected ';', expecting ',' or ')'[F:\WebWork\blog\application\api\controller\Get.php:116]

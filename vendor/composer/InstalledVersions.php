@@ -24,12 +24,12 @@ class InstalledVersions
 private static $installed = array (
   'root' => 
   array (
-    'pretty_version' => '1.0.0+no-version-set',
-    'version' => '1.0.0.0',
+    'pretty_version' => 'dev-master',
+    'version' => 'dev-master',
     'aliases' => 
     array (
     ),
-    'reference' => NULL,
+    'reference' => 'e7aa48478af6cc1cb9f1e569a5add0dd63b4454d',
     'name' => 'karsonzhang/fastadmin',
   ),
   'versions' => 
@@ -45,12 +45,12 @@ private static $installed = array (
     ),
     'elasticsearch/elasticsearch' => 
     array (
-      'pretty_version' => 'v7.10.0',
-      'version' => '7.10.0.0',
+      'pretty_version' => 'v7.11.0',
+      'version' => '7.11.0.0',
       'aliases' => 
       array (
       ),
-      'reference' => 'f4a5741f1d1966a4d0a3a3f68666e6d81432c343',
+      'reference' => '277cd5e182827c59c23e146a836a30470c0f879d',
     ),
     'ezimuel/guzzlestreams' => 
     array (
@@ -99,12 +99,12 @@ private static $installed = array (
     ),
     'karsonzhang/fastadmin' => 
     array (
-      'pretty_version' => '1.0.0+no-version-set',
-      'version' => '1.0.0.0',
+      'pretty_version' => 'dev-master',
+      'version' => 'dev-master',
       'aliases' => 
       array (
       ),
-      'reference' => NULL,
+      'reference' => 'e7aa48478af6cc1cb9f1e569a5add0dd63b4454d',
     ),
     'karsonzhang/fastadmin-addons' => 
     array (
@@ -187,15 +187,6 @@ private static $installed = array (
       ),
       'reference' => '996434e5492cb4c3edcb9168db6fbb1359ef965a',
     ),
-    'php-amqplib/php-amqplib' => 
-    array (
-      'pretty_version' => 'v2.8.0',
-      'version' => '2.8.0.0',
-      'aliases' => 
-      array (
-      ),
-      'reference' => '7df8553bd8b347cf6e919dd4a21e75f371547aa0',
-    ),
     'phpmailer/phpmailer' => 
     array (
       'pretty_version' => 'v6.1.8',
@@ -222,6 +213,15 @@ private static $installed = array (
       array (
       ),
       'reference' => '9e403941ef9d65d20cba7d54e29fe906db42cf32',
+    ),
+    'predis/predis' => 
+    array (
+      'pretty_version' => 'v1.1.6',
+      'version' => '1.1.6.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '9930e933c67446962997b05201c69c2319bf26de',
     ),
     'psr/cache' => 
     array (
@@ -400,35 +400,35 @@ private static $installed = array (
     ),
     'symfony/polyfill-intl-idn' => 
     array (
-      'pretty_version' => 'v1.22.0',
-      'version' => '1.22.0.0',
+      'pretty_version' => 'v1.22.1',
+      'version' => '1.22.1.0',
       'aliases' => 
       array (
       ),
-      'reference' => '0eb8293dbbcd6ef6bf81404c9ce7d95bcdf34f44',
+      'reference' => '2d63434d922daf7da8dd863e7907e67ee3031483',
     ),
     'symfony/polyfill-intl-normalizer' => 
     array (
-      'pretty_version' => 'v1.22.0',
-      'version' => '1.22.0.0',
+      'pretty_version' => 'v1.22.1',
+      'version' => '1.22.1.0',
       'aliases' => 
       array (
       ),
-      'reference' => '6e971c891537eb617a00bb07a43d182a6915faba',
+      'reference' => '43a0283138253ed1d48d352ab6d0bdb3f809f248',
     ),
     'symfony/polyfill-mbstring' => 
     array (
-      'pretty_version' => 'v1.22.0',
-      'version' => '1.22.0.0',
+      'pretty_version' => 'v1.22.1',
+      'version' => '1.22.1.0',
       'aliases' => 
       array (
       ),
-      'reference' => 'f377a3dd1fde44d37b9831d68dc8dea3ffd28e13',
+      'reference' => '5232de97ee3b75b0360528dae24e73db49566ab1',
     ),
     'symfony/polyfill-php72' => 
     array (
-      'pretty_version' => 'v1.22.0',
-      'version' => '1.22.0.0',
+      'pretty_version' => 'v1.22.1',
+      'version' => '1.22.1.0',
       'aliases' => 
       array (
       ),
@@ -436,8 +436,8 @@ private static $installed = array (
     ),
     'symfony/polyfill-php80' => 
     array (
-      'pretty_version' => 'v1.22.0',
-      'version' => '1.22.0.0',
+      'pretty_version' => 'v1.22.1',
+      'version' => '1.22.1.0',
       'aliases' => 
       array (
       ),
@@ -496,13 +496,6 @@ private static $installed = array (
       array (
       ),
       'reference' => '532dc02efb3d8332b36fd8f63fc4f56aeb1987e7',
-    ),
-    'videlalvaro/php-amqplib' => 
-    array (
-      'replaced' => 
-      array (
-        0 => 'v2.8.0',
-      ),
     ),
   ),
 );

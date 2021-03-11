@@ -1,0 +1,4 @@
+---------------------------------------------------------------
+[ 2021-03-09T18:02:22+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian?day=30
+[运行时间：0.096661s] [吞吐率：10.35req/s] [内存消耗：4,923.69kb] [文件加载：206]
+[ error ] [8]未定义变量: str[F:\WebWork\blog\application\api\controller\Get.php:120]
