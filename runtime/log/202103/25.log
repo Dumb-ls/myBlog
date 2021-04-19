@@ -1,0 +1,4 @@
+---------------------------------------------------------------
+[ 2021-03-25T18:20:39+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.749166s] [吞吐率：1.33req/s] [内存消耗：5,022.07kb] [文件加载：207]
+[ error ] [8]Undefined property: app\api\controller\Get::$connectUserId[F:\WebWork\blog\application\api\controller\Get.php:135]

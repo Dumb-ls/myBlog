@@ -1,0 +1,4 @@
+---------------------------------------------------------------
+[ 2021-04-14T13:03:05+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.781861s] [吞吐率：1.28req/s] [内存消耗：4,878.16kb] [文件加载：223]
+[ error ] [2]date_diff() expects parameter 1 to be DateTimeInterface, bool given[F:\WebWork\blog\application\api\controller\Get.php:212]

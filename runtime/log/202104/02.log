@@ -1,0 +1,448 @@
+---------------------------------------------------------------
+[ 2021-04-02T10:43:16+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.292972s] [吞吐率：3.41req/s] [内存消耗：5,012.10kb] [文件加载：208]
+[ error ] [8]Undefined property: MongoDB\Driver\Manager::$test[F:\WebWork\blog\application\api\controller\Get.php:147]
+---------------------------------------------------------------
+[ 2021-04-02T10:44:39+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.106865s] [吞吐率：9.36req/s] [内存消耗：5,110.36kb] [文件加载：209]
+[ error ] [0]致命错误: Call to undefined method MongoDB\Collection::countDocuments()[F:\WebWork\blog\application\api\controller\Get.php:167]
+---------------------------------------------------------------
+[ 2021-04-02T13:15:10+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.398434s] [吞吐率：2.51req/s] [内存消耗：5,274.73kb] [文件加载：215]
+[ error ] [0]致命错误: Call to undefined method MongoDB\Driver\ReadConcern::isDefault()[F:\WebWork\blog\vendor\mongodb\mongodb\src\Operation\Find.php:291]
+---------------------------------------------------------------
+[ 2021-04-02T13:16:04+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.101532s] [吞吐率：9.85req/s] [内存消耗：5,056.63kb] [文件加载：210]
+[ error ] [8]Undefined property: MongoDB\Driver\Manager::$test[F:\WebWork\blog\application\api\controller\Get.php:147]
+---------------------------------------------------------------
+[ 2021-04-02T13:16:19+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.093479s] [吞吐率：10.70req/s] [内存消耗：5,273.70kb] [文件加载：215]
+[ error ] [0]致命错误: Call to undefined method MongoDB\Driver\ReadConcern::isDefault()[F:\WebWork\blog\vendor\mongodb\mongodb\src\Operation\Find.php:291]
+---------------------------------------------------------------
+[ 2021-04-02T13:18:21+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.111280s] [吞吐率：8.99req/s] [内存消耗：5,478.02kb] [文件加载：221]
+[ error ] [0]致命错误: Call to undefined method MongoDB\Driver\ReadConcern::isDefault()[F:\WebWork\blog\vendor\mongodb\mongodb\src\Operation\Find.php:291]
+---------------------------------------------------------------
+[ 2021-04-02T13:18:37+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.079861s] [吞吐率：12.52req/s] [内存消耗：5,338.76kb] [文件加载：215]
+[ error ] [0]类型错误: Argument 1 passed to MongoDB\Collection::__construct() must be an instance of MongoDB\Driver\Manager, instance of MongoDB\Client given, called in F:\WebWork\blog\application\api\controller\Get.php on line 146[F:\WebWork\blog\vendor\mongodb\mongodb\src\Collection.php:136]
+---------------------------------------------------------------
+[ 2021-04-02T13:19:54+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.073246s] [吞吐率：13.65req/s] [内存消耗：5,273.70kb] [文件加载：215]
+[ error ] [0]致命错误: Call to undefined method MongoDB\Driver\ReadConcern::isDefault()[F:\WebWork\blog\vendor\mongodb\mongodb\src\Operation\Find.php:291]
+---------------------------------------------------------------
+[ 2021-04-02T13:20:19+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.069364s] [吞吐率：14.42req/s] [内存消耗：5,265.56kb] [文件加载：214]
+[ error ] [0]致命错误: Call to undefined method MongoDB\Driver\ReadConcern::isDefault()[F:\WebWork\blog\vendor\mongodb\mongodb\src\Operation\Find.php:291]
+---------------------------------------------------------------
+[ 2021-04-02T13:27:24+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.082224s] [吞吐率：12.16req/s] [内存消耗：5,338.73kb] [文件加载：215]
+[ error ] [0]类型错误: Argument 1 passed to MongoDB\Collection::__construct() must be an instance of MongoDB\Driver\Manager, instance of MongoDB\Client given, called in F:\WebWork\blog\application\api\controller\Get.php on line 147[F:\WebWork\blog\vendor\mongodb\mongodb\src\Collection.php:136]
+---------------------------------------------------------------
+[ 2021-04-02T13:28:15+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.077949s] [吞吐率：12.83req/s] [内存消耗：5,265.56kb] [文件加载：214]
+[ error ] [0]致命错误: Call to undefined method MongoDB\Driver\ReadConcern::isDefault()[F:\WebWork\blog\vendor\mongodb\mongodb\src\Operation\Find.php:291]
+---------------------------------------------------------------
+[ 2021-04-02T13:30:25+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.085959s] [吞吐率：11.63req/s] [内存消耗：5,338.73kb] [文件加载：215]
+[ error ] [0]类型错误: Argument 1 passed to MongoDB\Collection::__construct() must be an instance of MongoDB\Driver\Manager, instance of MongoDB\Client given, called in F:\WebWork\blog\application\api\controller\Get.php on line 147[F:\WebWork\blog\vendor\mongodb\mongodb\src\Collection.php:136]
+---------------------------------------------------------------
+[ 2021-04-02T13:31:05+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.083880s] [吞吐率：11.92req/s] [内存消耗：5,201.32kb] [文件加载：214]
+[ error ] [0]类型错误: Too few arguments to function MongoDB\Client::selectDatabase(), 0 passed in F:\WebWork\blog\application\api\controller\Get.php on line 147 and at least 1 expected[F:\WebWork\blog\vendor\mongodb\mongodb\src\Client.php:338]
+---------------------------------------------------------------
+[ 2021-04-02T13:32:02+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.101876s] [吞吐率：9.82req/s] [内存消耗：5,478.02kb] [文件加载：221]
+[ error ] [0]致命错误: Call to undefined method MongoDB\Driver\ReadConcern::isDefault()[F:\WebWork\blog\vendor\mongodb\mongodb\src\Operation\Find.php:291]
+---------------------------------------------------------------
+[ 2021-04-02T13:32:20+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.085465s] [吞吐率：11.70req/s] [内存消耗：5,475.59kb] [文件加载：220]
+[ error ] [0]致命错误: Call to undefined method MongoDB\Driver\ReadConcern::isDefault()[F:\WebWork\blog\vendor\mongodb\mongodb\src\Operation\Find.php:291]
+---------------------------------------------------------------
+[ 2021-04-02T13:34:08+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.078592s] [吞吐率：12.72req/s] [内存消耗：4,854.81kb] [文件加载：192]
+[ error ] [8]Array to string conversion[F:\WebWork\blog\vendor\mongodb\mongodb\src\Client.php:124]
+---------------------------------------------------------------
+[ 2021-04-02T13:34:20+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.057915s] [吞吐率：17.27req/s] [内存消耗：4,854.15kb] [文件加载：192]
+[ error ] [8]Array to string conversion[F:\WebWork\blog\vendor\mongodb\mongodb\src\Client.php:124]
+---------------------------------------------------------------
+[ 2021-04-02T13:34:26+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.065028s] [吞吐率：15.38req/s] [内存消耗：4,854.15kb] [文件加载：192]
+[ error ] [8]Array to string conversion[F:\WebWork\blog\vendor\mongodb\mongodb\src\Client.php:124]
+---------------------------------------------------------------
+[ 2021-04-02T13:35:13+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.090590s] [吞吐率：11.04req/s] [内存消耗：5,467.41kb] [文件加载：219]
+[ error ] [0]致命错误: Call to undefined method MongoDB\Driver\ReadConcern::isDefault()[F:\WebWork\blog\vendor\mongodb\mongodb\src\Operation\Find.php:291]
+---------------------------------------------------------------
+[ 2021-04-02T13:35:57+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.104410s] [吞吐率：9.58req/s] [内存消耗：5,465.22kb] [文件加载：220]
+[ error ] [0]致命错误: Call to undefined method MongoDB\Driver\ReadConcern::isDefault()[F:\WebWork\blog\vendor\mongodb\mongodb\src\Operation\Aggregate.php:235]
+---------------------------------------------------------------
+[ 2021-04-02T13:37:43+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.088232s] [吞吐率：11.33req/s] [内存消耗：5,465.25kb] [文件加载：220]
+[ error ] [0]致命错误: Call to undefined method MongoDB\Driver\ReadConcern::isDefault()[F:\WebWork\blog\vendor\mongodb\mongodb\src\Operation\Aggregate.php:235]
+---------------------------------------------------------------
+[ 2021-04-02T13:37:44+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.073610s] [吞吐率：13.59req/s] [内存消耗：5,465.25kb] [文件加载：220]
+[ error ] [0]致命错误: Call to undefined method MongoDB\Driver\ReadConcern::isDefault()[F:\WebWork\blog\vendor\mongodb\mongodb\src\Operation\Aggregate.php:235]
+---------------------------------------------------------------
+[ 2021-04-02T13:37:45+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.068421s] [吞吐率：14.62req/s] [内存消耗：5,465.25kb] [文件加载：220]
+[ error ] [0]致命错误: Call to undefined method MongoDB\Driver\ReadConcern::isDefault()[F:\WebWork\blog\vendor\mongodb\mongodb\src\Operation\Aggregate.php:235]
+---------------------------------------------------------------
+[ 2021-04-02T13:39:06+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.092420s] [吞吐率：10.82req/s] [内存消耗：5,465.25kb] [文件加载：220]
+[ error ] [0]致命错误: Call to undefined method MongoDB\Driver\ReadConcern::isDefault()[F:\WebWork\blog\vendor\mongodb\mongodb\src\Operation\Aggregate.php:235]
+---------------------------------------------------------------
+[ 2021-04-02T13:39:44+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.082782s] [吞吐率：12.08req/s] [内存消耗：5,467.45kb] [文件加载：219]
+[ error ] [0]致命错误: Call to undefined method MongoDB\Driver\ReadConcern::isDefault()[F:\WebWork\blog\vendor\mongodb\mongodb\src\Operation\Find.php:291]
+---------------------------------------------------------------
+[ 2021-04-02T13:40:24+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.074582s] [吞吐率：13.41req/s] [内存消耗：5,467.45kb] [文件加载：219]
+[ error ] [0]致命错误: Call to undefined method MongoDB\Driver\ReadConcern::isDefault()[F:\WebWork\blog\vendor\mongodb\mongodb\src\Operation\Find.php:291]
+---------------------------------------------------------------
+[ 2021-04-02T13:40:25+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.071248s] [吞吐率：14.04req/s] [内存消耗：5,467.45kb] [文件加载：219]
+[ error ] [0]致命错误: Call to undefined method MongoDB\Driver\ReadConcern::isDefault()[F:\WebWork\blog\vendor\mongodb\mongodb\src\Operation\Find.php:291]
+---------------------------------------------------------------
+[ 2021-04-02T13:41:27+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.078460s] [吞吐率：12.75req/s] [内存消耗：5,467.45kb] [文件加载：219]
+[ error ] [0]致命错误: Call to undefined method MongoDB\Driver\ReadConcern::isDefault()[F:\WebWork\blog\vendor\mongodb\mongodb\src\Operation\Find.php:291]
+---------------------------------------------------------------
+[ 2021-04-02T13:41:28+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.088460s] [吞吐率：11.30req/s] [内存消耗：5,467.45kb] [文件加载：219]
+[ error ] [0]致命错误: Call to undefined method MongoDB\Driver\ReadConcern::isDefault()[F:\WebWork\blog\vendor\mongodb\mongodb\src\Operation\Find.php:291]
+---------------------------------------------------------------
+[ 2021-04-02T13:41:48+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.086251s] [吞吐率：11.59req/s] [内存消耗：5,467.45kb] [文件加载：219]
+[ error ] [0]致命错误: Call to undefined method MongoDB\Driver\ReadConcern::isDefault()[F:\WebWork\blog\vendor\mongodb\mongodb\src\Operation\Find.php:291]
+---------------------------------------------------------------
+[ 2021-04-02T13:41:49+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.089760s] [吞吐率：11.14req/s] [内存消耗：5,467.45kb] [文件加载：219]
+[ error ] [0]致命错误: Call to undefined method MongoDB\Driver\ReadConcern::isDefault()[F:\WebWork\blog\vendor\mongodb\mongodb\src\Operation\Find.php:291]
+---------------------------------------------------------------
+[ 2021-04-02T13:41:49+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.075356s] [吞吐率：13.27req/s] [内存消耗：5,467.45kb] [文件加载：219]
+[ error ] [0]致命错误: Call to undefined method MongoDB\Driver\ReadConcern::isDefault()[F:\WebWork\blog\vendor\mongodb\mongodb\src\Operation\Find.php:291]
+---------------------------------------------------------------
+[ 2021-04-02T13:41:51+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.069639s] [吞吐率：14.36req/s] [内存消耗：5,467.45kb] [文件加载：219]
+[ error ] [0]致命错误: Call to undefined method MongoDB\Driver\ReadConcern::isDefault()[F:\WebWork\blog\vendor\mongodb\mongodb\src\Operation\Find.php:291]
+---------------------------------------------------------------
+[ 2021-04-02T13:42:08+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.108116s] [吞吐率：9.25req/s] [内存消耗：3,923.15kb] [文件加载：184]
+[ error ] [8192]Array and string offset access syntax with curly braces is deprecated[F:\WebWork\blog\thinkphp\library\think\db\Query.php:400]
+---------------------------------------------------------------
+[ 2021-04-02T13:42:24+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.051157s] [吞吐率：19.55req/s] [内存消耗：3,923.21kb] [文件加载：184]
+[ error ] [8192]Array and string offset access syntax with curly braces is deprecated[F:\WebWork\blog\thinkphp\library\think\db\Query.php:400]
+---------------------------------------------------------------
+[ 2021-04-02T13:42:25+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.046711s] [吞吐率：21.41req/s] [内存消耗：3,923.21kb] [文件加载：184]
+[ error ] [8192]Array and string offset access syntax with curly braces is deprecated[F:\WebWork\blog\thinkphp\library\think\db\Query.php:400]
+---------------------------------------------------------------
+[ 2021-04-02T13:42:34+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.039712s] [吞吐率：25.18req/s] [内存消耗：3,922.90kb] [文件加载：184]
+[ error ] [8192]Array and string offset access syntax with curly braces is deprecated[F:\WebWork\blog\thinkphp\library\think\db\Query.php:400]
+---------------------------------------------------------------
+[ 2021-04-02T13:42:35+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.044054s] [吞吐率：22.70req/s] [内存消耗：3,922.90kb] [文件加载：184]
+[ error ] [8192]Array and string offset access syntax with curly braces is deprecated[F:\WebWork\blog\thinkphp\library\think\db\Query.php:400]
+---------------------------------------------------------------
+[ 2021-04-02T13:42:36+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.041897s] [吞吐率：23.87req/s] [内存消耗：3,922.90kb] [文件加载：184]
+[ error ] [8192]Array and string offset access syntax with curly braces is deprecated[F:\WebWork\blog\thinkphp\library\think\db\Query.php:400]
+---------------------------------------------------------------
+[ 2021-04-02T13:43:45+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.096053s] [吞吐率：10.41req/s] [内存消耗：5,202.34kb] [文件加载：214]
+[ error ] [0]致命错误: Class 'MongoDB\Driver\Manager' not found[F:\WebWork\blog\vendor\mongodb\mongodb\src\Client.php:129]
+---------------------------------------------------------------
+[ 2021-04-02T13:44:49+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.075261s] [吞吐率：13.29req/s] [内存消耗：5,201.63kb] [文件加载：214]
+[ error ] [0]致命错误: Class 'MongoDB\Driver\Manager' not found[F:\WebWork\blog\vendor\mongodb\mongodb\src\Client.php:129]
+---------------------------------------------------------------
+[ 2021-04-02T13:45:38+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.070328s] [吞吐率：14.22req/s] [内存消耗：5,201.63kb] [文件加载：214]
+[ error ] [0]致命错误: Class 'MongoDB\Driver\Manager' not found[F:\WebWork\blog\vendor\mongodb\mongodb\src\Client.php:129]
+---------------------------------------------------------------
+[ 2021-04-02T13:45:56+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.081528s] [吞吐率：12.27req/s] [内存消耗：5,202.31kb] [文件加载：214]
+[ error ] [0]致命错误: Class 'MongoDB\Driver\Manager' not found[F:\WebWork\blog\vendor\mongodb\mongodb\src\Client.php:129]
+---------------------------------------------------------------
+[ 2021-04-02T13:46:32+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.117860s] [吞吐率：8.48req/s] [内存消耗：5,203.02kb] [文件加载：214]
+[ error ] [0]致命错误: Class 'MongoDB\Driver\Manager' not found[F:\WebWork\blog\vendor\mongodb\mongodb\src\Client.php:129]
+---------------------------------------------------------------
+[ 2021-04-02T13:47:13+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.072113s] [吞吐率：13.87req/s] [内存消耗：5,202.31kb] [文件加载：214]
+[ error ] [0]致命错误: Class 'MongoDB\Driver\Manager' not found[F:\WebWork\blog\vendor\mongodb\mongodb\src\Client.php:129]
+---------------------------------------------------------------
+[ 2021-04-02T13:47:14+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.067921s] [吞吐率：14.72req/s] [内存消耗：5,202.31kb] [文件加载：214]
+[ error ] [0]致命错误: Class 'MongoDB\Driver\Manager' not found[F:\WebWork\blog\vendor\mongodb\mongodb\src\Client.php:129]
+---------------------------------------------------------------
+[ 2021-04-02T13:47:15+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.066688s] [吞吐率：15.00req/s] [内存消耗：5,202.31kb] [文件加载：214]
+[ error ] [0]致命错误: Class 'MongoDB\Driver\Manager' not found[F:\WebWork\blog\vendor\mongodb\mongodb\src\Client.php:129]
+---------------------------------------------------------------
+[ 2021-04-02T13:47:16+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.066452s] [吞吐率：15.05req/s] [内存消耗：5,202.31kb] [文件加载：214]
+[ error ] [0]致命错误: Class 'MongoDB\Driver\Manager' not found[F:\WebWork\blog\vendor\mongodb\mongodb\src\Client.php:129]
+---------------------------------------------------------------
+[ 2021-04-02T13:47:16+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.067153s] [吞吐率：14.89req/s] [内存消耗：5,202.31kb] [文件加载：214]
+[ error ] [0]致命错误: Class 'MongoDB\Driver\Manager' not found[F:\WebWork\blog\vendor\mongodb\mongodb\src\Client.php:129]
+---------------------------------------------------------------
+[ 2021-04-02T13:47:17+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.070428s] [吞吐率：14.20req/s] [内存消耗：5,202.31kb] [文件加载：214]
+[ error ] [0]致命错误: Class 'MongoDB\Driver\Manager' not found[F:\WebWork\blog\vendor\mongodb\mongodb\src\Client.php:129]
+---------------------------------------------------------------
+[ 2021-04-02T13:49:21+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.088281s] [吞吐率：11.33req/s] [内存消耗：5,203.02kb] [文件加载：214]
+[ error ] [0]致命错误: Class 'MongoDB\Driver\Manager' not found[F:\WebWork\blog\vendor\mongodb\mongodb\src\Client.php:129]
+---------------------------------------------------------------
+[ 2021-04-02T13:49:22+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.063838s] [吞吐率：15.66req/s] [内存消耗：5,202.31kb] [文件加载：214]
+[ error ] [0]致命错误: Class 'MongoDB\Driver\Manager' not found[F:\WebWork\blog\vendor\mongodb\mongodb\src\Client.php:129]
+---------------------------------------------------------------
+[ 2021-04-02T13:49:23+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.062930s] [吞吐率：15.89req/s] [内存消耗：5,202.31kb] [文件加载：214]
+[ error ] [0]致命错误: Class 'MongoDB\Driver\Manager' not found[F:\WebWork\blog\vendor\mongodb\mongodb\src\Client.php:129]
+---------------------------------------------------------------
+[ 2021-04-02T13:53:14+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.078496s] [吞吐率：12.74req/s] [内存消耗：5,202.31kb] [文件加载：214]
+[ error ] [0]致命错误: Class 'MongoDB\Driver\Manager' not found[F:\WebWork\blog\vendor\mongodb\mongodb\src\Client.php:129]
+---------------------------------------------------------------
+[ 2021-04-02T14:00:31+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.088726s] [吞吐率：11.27req/s] [内存消耗：5,202.31kb] [文件加载：214]
+[ error ] [0]致命错误: Class 'MongoDB\Driver\Manager' not found[F:\WebWork\blog\vendor\mongodb\mongodb\src\Client.php:129]
+---------------------------------------------------------------
+[ 2021-04-02T14:00:32+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.065151s] [吞吐率：15.35req/s] [内存消耗：5,202.31kb] [文件加载：214]
+[ error ] [0]致命错误: Class 'MongoDB\Driver\Manager' not found[F:\WebWork\blog\vendor\mongodb\mongodb\src\Client.php:129]
+---------------------------------------------------------------
+[ 2021-04-02T14:03:52+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.115475s] [吞吐率：8.66req/s] [内存消耗：5,475.59kb] [文件加载：220]
+[ error ] [0]致命错误: Call to undefined method MongoDB\Driver\ReadConcern::isDefault()[F:\WebWork\blog\vendor\mongodb\mongodb\src\Operation\Find.php:291]
+---------------------------------------------------------------
+[ 2021-04-02T14:04:57+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.121133s] [吞吐率：8.26req/s] [内存消耗：5,475.59kb] [文件加载：220]
+[ error ] [0]致命错误: Call to undefined method MongoDB\Driver\ReadConcern::isDefault()[F:\WebWork\blog\vendor\mongodb\mongodb\src\Operation\Find.php:291]
+---------------------------------------------------------------
+[ 2021-04-02T14:05:29+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.074756s] [吞吐率：13.38req/s] [内存消耗：5,338.75kb] [文件加载：215]
+[ error ] [0]类型错误: Argument 1 passed to MongoDB\Collection::__construct() must be an instance of MongoDB\Driver\Manager, instance of MongoDB\Client given, called in F:\WebWork\blog\application\api\controller\Get.php on line 147[F:\WebWork\blog\vendor\mongodb\mongodb\src\Collection.php:136]
+---------------------------------------------------------------
+[ 2021-04-02T14:05:40+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.070097s] [吞吐率：14.27req/s] [内存消耗：5,475.59kb] [文件加载：220]
+[ error ] [0]致命错误: Call to undefined method MongoDB\Driver\ReadConcern::isDefault()[F:\WebWork\blog\vendor\mongodb\mongodb\src\Operation\Find.php:291]
+---------------------------------------------------------------
+[ 2021-04-02T14:05:57+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.075153s] [吞吐率：13.31req/s] [内存消耗：5,467.45kb] [文件加载：219]
+[ error ] [0]致命错误: Call to undefined method MongoDB\Driver\ReadConcern::isDefault()[F:\WebWork\blog\vendor\mongodb\mongodb\src\Operation\Find.php:291]
+---------------------------------------------------------------
+[ 2021-04-02T14:06:15+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.079508s] [吞吐率：12.58req/s] [内存消耗：5,465.25kb] [文件加载：220]
+[ error ] [0]致命错误: Call to undefined method MongoDB\Driver\ReadConcern::isDefault()[F:\WebWork\blog\vendor\mongodb\mongodb\src\Operation\Aggregate.php:235]
+---------------------------------------------------------------
+[ 2021-04-02T14:07:07+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.083612s] [吞吐率：11.96req/s] [内存消耗：5,475.59kb] [文件加载：220]
+[ error ] [0]致命错误: Call to undefined method MongoDB\Driver\ReadConcern::isDefault()[F:\WebWork\blog\vendor\mongodb\mongodb\src\Operation\Find.php:291]
+---------------------------------------------------------------
+[ 2021-04-02T14:08:20+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.093217s] [吞吐率：10.73req/s] [内存消耗：5,475.59kb] [文件加载：220]
+[ error ] [0]致命错误: Call to undefined method MongoDB\Driver\ReadConcern::isDefault()[F:\WebWork\blog\vendor\mongodb\mongodb\src\Operation\Find.php:291]
+---------------------------------------------------------------
+[ 2021-04-02T14:10:00+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.159648s] [吞吐率：6.26req/s] [内存消耗：5,475.59kb] [文件加载：220]
+[ error ] [0]致命错误: Call to undefined method MongoDB\Driver\ReadConcern::isDefault()[F:\WebWork\blog\vendor\mongodb\mongodb\src\Operation\Find.php:291]
+---------------------------------------------------------------
+[ 2021-04-02T14:10:49+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.066994s] [吞吐率：14.93req/s] [内存消耗：3,923.21kb] [文件加载：184]
+[ error ] [8192]Array and string offset access syntax with curly braces is deprecated[F:\WebWork\blog\thinkphp\library\think\db\Query.php:400]
+---------------------------------------------------------------
+[ 2021-04-02T14:17:49+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.066700s] [吞吐率：14.99req/s] [内存消耗：4,740.87kb] [文件加载：215]
+[ error ] [0]类型错误: Argument 2 passed to MongoDB\Collection::find() must be of the type array, string given, called in F:\WebWork\blog\application\api\controller\Get.php on line 171[F:\WebWork\blog\vendor\mongodb\mongodb\src\Collection.php:645]
+---------------------------------------------------------------
+[ 2021-04-02T14:27:26+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.034467s] [吞吐率：29.01req/s] [内存消耗：2,936.34kb] [文件加载：175]
+[ error ] [0]语法解析错误: syntax error, unexpected ')', expecting ']'[F:\WebWork\blog\application\api\controller\Get.php:171]
+---------------------------------------------------------------
+[ 2021-04-02T14:47:22+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.054453s] [吞吐率：18.36req/s] [内存消耗：4,799.38kb] [文件加载：219]
+[ error ] [0]致命错误: Call to a member function toArray() on int[F:\WebWork\blog\application\api\controller\Get.php:173]
+---------------------------------------------------------------
+[ 2021-04-02T14:48:32+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.055764s] [吞吐率：17.93req/s] [内存消耗：4,810.80kb] [文件加载：221]
+[ error ] [8]未定义数组索引: $collection->find($where)->toArray()[F:\WebWork\blog\application\api\controller\Get.php:174]
+---------------------------------------------------------------
+[ 2021-04-02T14:48:52+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.054813s] [吞吐率：18.24req/s] [内存消耗：4,810.80kb] [文件加载：221]
+[ error ] [8]未定义数组索引: $collection->find($where)->toArray()[F:\WebWork\blog\application\api\controller\Get.php:174]
+---------------------------------------------------------------
+[ 2021-04-02T14:48:53+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.052924s] [吞吐率：18.90req/s] [内存消耗：4,810.80kb] [文件加载：221]
+[ error ] [8]未定义数组索引: $collection->find($where)->toArray()[F:\WebWork\blog\application\api\controller\Get.php:174]
+---------------------------------------------------------------
+[ 2021-04-02T14:49:20+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.067953s] [吞吐率：14.72req/s] [内存消耗：4,809.81kb] [文件加载：221]
+[ error ] [8]未定义数组索引: $collection->find($where)->toArray()[F:\WebWork\blog\application\api\controller\Get.php:174]
+---------------------------------------------------------------
+[ 2021-04-02T14:50:17+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.057471s] [吞吐率：17.40req/s] [内存消耗：4,810.87kb] [文件加载：221]
+[ error ] [8]未定义数组索引: $collection->find($where)->toArray()[F:\WebWork\blog\application\api\controller\Get.php:174]
+---------------------------------------------------------------
+[ 2021-04-02T14:50:43+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.068763s] [吞吐率：14.54req/s] [内存消耗：4,809.81kb] [文件加载：221]
+[ error ] [8]未定义数组索引: $collection->find($where)->toArray()[F:\WebWork\blog\application\api\controller\Get.php:174]
+---------------------------------------------------------------
+[ 2021-04-02T14:51:14+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.054619s] [吞吐率：18.31req/s] [内存消耗：4,809.73kb] [文件加载：221]
+[ error ] [8]未定义数组下标: 1[F:\WebWork\blog\application\api\controller\Get.php:175]
+---------------------------------------------------------------
+[ 2021-04-02T14:52:23+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.054109s] [吞吐率：18.48req/s] [内存消耗：4,810.79kb] [文件加载：221]
+[ error ] [8]未定义数组下标: 1[F:\WebWork\blog\application\api\controller\Get.php:175]
+---------------------------------------------------------------
+[ 2021-04-02T14:52:30+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.053460s] [吞吐率：18.71req/s] [内存消耗：4,810.87kb] [文件加载：221]
+[ error ] [8]未定义数组索引: $collection->find($where)->toArray()[F:\WebWork\blog\application\api\controller\Get.php:175]
+---------------------------------------------------------------
+[ 2021-04-02T14:52:40+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.051475s] [吞吐率：19.43req/s] [内存消耗：4,810.87kb] [文件加载：221]
+[ error ] [8]未定义数组索引: $collection->find($where)->toArray()[F:\WebWork\blog\application\api\controller\Get.php:175]
+---------------------------------------------------------------
+[ 2021-04-02T14:56:03+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.092079s] [吞吐率：10.86req/s] [内存消耗：4,809.84kb] [文件加载：221]
+[ error ] [2]MongoDB\Driver\Cursor::setTypeMap() expects exactly 1 parameter, 0 given[F:\WebWork\blog\application\api\controller\Get.php:173]
+---------------------------------------------------------------
+[ 2021-04-02T14:56:58+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.057057s] [吞吐率：17.53req/s] [内存消耗：4,809.67kb] [文件加载：221]
+[ error ] [2]Illegal offset type[F:\WebWork\blog\application\api\controller\Get.php:175]
+---------------------------------------------------------------
+[ 2021-04-02T15:00:07+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.095349s] [吞吐率：10.49req/s] [内存消耗：4,827.70kb] [文件加载：221]
+[ error ] [0]致命错误: Call to a member function countDocuments() on array[F:\WebWork\blog\application\api\controller\Get.php:177]
+---------------------------------------------------------------
+[ 2021-04-02T15:04:44+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.052851s] [吞吐率：18.92req/s] [内存消耗：4,827.66kb] [文件加载：221]
+[ error ] [0]致命错误: Call to a member function count() on array[F:\WebWork\blog\application\api\controller\Get.php:178]
+---------------------------------------------------------------
+[ 2021-04-02T15:04:58+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.052255s] [吞吐率：19.14req/s] [内存消耗：4,827.70kb] [文件加载：221]
+[ error ] [0]致命错误: Call to a member function countDocuments() on array[F:\WebWork\blog\application\api\controller\Get.php:178]
+---------------------------------------------------------------
+[ 2021-04-02T15:30:53+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.076031s] [吞吐率：13.15req/s] [内存消耗：4,829.69kb] [文件加载：222]
+[ error ] [8]Array to string conversion[F:\WebWork\blog\vendor\mongodb\mongodb\src\Operation\Distinct.php:135]
+---------------------------------------------------------------
+[ 2021-04-02T15:37:29+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.073018s] [吞吐率：13.70req/s] [内存消耗：4,849.49kb] [文件加载：224]
+[ error ] [0]Expected $command to have type "array or object" but found "string"[F:\WebWork\blog\vendor\mongodb\mongodb\src\Exception\InvalidArgumentException.php:59]
+---------------------------------------------------------------
+[ 2021-04-02T15:44:08+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.067830s] [吞吐率：14.74req/s] [内存消耗：4,849.48kb] [文件加载：224]
+[ error ] [0]Expected $command to have type "array or object" but found "string"[F:\WebWork\blog\vendor\mongodb\mongodb\src\Exception\InvalidArgumentException.php:59]
+---------------------------------------------------------------
+[ 2021-04-02T15:44:09+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.056868s] [吞吐率：17.58req/s] [内存消耗：4,849.48kb] [文件加载：224]
+[ error ] [0]Expected $command to have type "array or object" but found "string"[F:\WebWork\blog\vendor\mongodb\mongodb\src\Exception\InvalidArgumentException.php:59]
+---------------------------------------------------------------
+[ 2021-04-02T15:58:25+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.118170s] [吞吐率：8.46req/s] [内存消耗：4,866.94kb] [文件加载：221]
+[ error ] [14]Each element of the 'pipeline' array must be an object[F:\WebWork\blog\vendor\mongodb\mongodb\src\Operation\Aggregate.php:298]
+---------------------------------------------------------------
+[ 2021-04-02T15:59:06+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.054652s] [吞吐率：18.30req/s] [内存消耗：4,866.88kb] [文件加载：221]
+[ error ] [14]Each element of the 'pipeline' array must be an object[F:\WebWork\blog\vendor\mongodb\mongodb\src\Operation\Aggregate.php:298]
+---------------------------------------------------------------
+[ 2021-04-02T16:00:57+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.099923s] [吞吐率：10.01req/s] [内存消耗：4,866.95kb] [文件加载：221]
+[ error ] [40234]The field 'commentContent' must be an accumulator object[F:\WebWork\blog\vendor\mongodb\mongodb\src\Operation\Aggregate.php:298]
+---------------------------------------------------------------
+[ 2021-04-02T16:17:06+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.068969s] [吞吐率：14.50req/s] [内存消耗：4,866.09kb] [文件加载：221]
+[ error ] [15947]a group's fields must be specified in an object[F:\WebWork\blog\vendor\mongodb\mongodb\src\Operation\Aggregate.php:298]
+---------------------------------------------------------------
+[ 2021-04-02T16:17:19+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.058748s] [吞吐率：17.02req/s] [内存消耗：4,866.12kb] [文件加载：221]
+[ error ] [40234]The field 'commentContent' must be an accumulator object[F:\WebWork\blog\vendor\mongodb\mongodb\src\Operation\Aggregate.php:298]
+---------------------------------------------------------------
+[ 2021-04-02T16:22:52+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.085971s] [吞吐率：11.63req/s] [内存消耗：4,866.12kb] [文件加载：221]
+[ error ] [40234]The field 'commentContent' must be an accumulator object[F:\WebWork\blog\vendor\mongodb\mongodb\src\Operation\Aggregate.php:298]
+---------------------------------------------------------------
+[ 2021-04-02T16:22:53+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.053604s] [吞吐率：18.66req/s] [内存消耗：4,866.12kb] [文件加载：221]
+[ error ] [40234]The field 'commentContent' must be an accumulator object[F:\WebWork\blog\vendor\mongodb\mongodb\src\Operation\Aggregate.php:298]
+---------------------------------------------------------------
+[ 2021-04-02T16:29:06+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.053589s] [吞吐率：18.66req/s] [内存消耗：4,809.69kb] [文件加载：220]
+[ error ] [0]致命错误: Call to undefined method MongoDB\Driver\Cursor::getChannelId()[F:\WebWork\blog\application\api\controller\Get.php:173]
+---------------------------------------------------------------
+[ 2021-04-02T16:29:56+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.065530s] [吞吐率：15.26req/s] [内存消耗：4,809.70kb] [文件加载：220]
+[ error ] [0]致命错误: Object of class MongoDB\Model\BSONDocument could not be converted to string[F:\WebWork\blog\application\api\controller\Get.php:174]
+---------------------------------------------------------------
+[ 2021-04-02T16:30:29+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.084460s] [吞吐率：11.84req/s] [内存消耗：4,811.70kb] [文件加载：221]
+[ error ] [8]Array to string conversion[F:\WebWork\blog\application\api\controller\Get.php:175]
+---------------------------------------------------------------
+[ 2021-04-02T16:41:01+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.059529s] [吞吐率：16.80req/s] [内存消耗：4,872.29kb] [文件加载：223]
+[ error ] [0]$pipeline is not a list (unexpected index: "$group")[F:\WebWork\blog\vendor\mongodb\mongodb\src\Operation\Aggregate.php:156]
+---------------------------------------------------------------
+[ 2021-04-02T16:43:49+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.093010s] [吞吐率：10.75req/s] [内存消耗：4,872.32kb] [文件加载：223]
+[ error ] [0]$pipeline is not a list (unexpected index: "$group")[F:\WebWork\blog\vendor\mongodb\mongodb\src\Operation\Aggregate.php:156]
+---------------------------------------------------------------
+[ 2021-04-02T16:47:44+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.118799s] [吞吐率：8.42req/s] [内存消耗：4,872.02kb] [文件加载：223]
+[ error ] [0]$pipeline is not a list (unexpected index: "$match")[F:\WebWork\blog\vendor\mongodb\mongodb\src\Operation\Aggregate.php:156]
+---------------------------------------------------------------
+[ 2021-04-02T16:52:13+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.069901s] [吞吐率：14.31req/s] [内存消耗：4,872.02kb] [文件加载：223]
+[ error ] [0]$pipeline is not a list (unexpected index: "$match")[F:\WebWork\blog\vendor\mongodb\mongodb\src\Operation\Aggregate.php:156]
+---------------------------------------------------------------
+[ 2021-04-02T16:54:09+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.088689s] [吞吐率：11.28req/s] [内存消耗：4,830.54kb] [文件加载：221]
+[ error ] [0]类型错误: Too few arguments to function MongoDB\Collection::aggregate(), 0 passed in F:\WebWork\blog\application\api\controller\Get.php on line 192 and at least 1 expected[F:\WebWork\blog\vendor\mongodb\mongodb\src\Collection.php:218]
+---------------------------------------------------------------
+[ 2021-04-02T17:01:07+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.076790s] [吞吐率：13.02req/s] [内存消耗：4,830.57kb] [文件加载：221]
+[ error ] [0]类型错误: Argument 1 passed to MongoDB\Collection::aggregate() must be of the type array, string given, called in F:\WebWork\blog\application\api\controller\Get.php on line 192[F:\WebWork\blog\vendor\mongodb\mongodb\src\Collection.php:218]
+---------------------------------------------------------------
+[ 2021-04-02T17:09:56+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.084316s] [吞吐率：11.86req/s] [内存消耗：4,871.95kb] [文件加载：222]
+[ error ] [0]致命错误: Cannot use object of type MongoDB\Driver\Cursor as array[F:\WebWork\blog\application\api\controller\Get.php:193]
+---------------------------------------------------------------
+[ 2021-04-02T17:11:11+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.079088s] [吞吐率：12.64req/s] [内存消耗：4,878.01kb] [文件加载：223]
+[ error ] [2]json_decode() expects parameter 1 to be string, object given[F:\WebWork\blog\application\api\controller\Get.php:193]
+---------------------------------------------------------------
+[ 2021-04-02T17:11:12+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.056594s] [吞吐率：17.67req/s] [内存消耗：4,878.01kb] [文件加载：223]
+[ error ] [2]json_decode() expects parameter 1 to be string, object given[F:\WebWork\blog\application\api\controller\Get.php:193]
+---------------------------------------------------------------
+[ 2021-04-02T17:21:15+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.079435s] [吞吐率：12.59req/s] [内存消耗：4,878.03kb] [文件加载：223]
+[ error ] [8]未定义数组索引: $commentContent[F:\WebWork\blog\application\api\controller\Get.php:195]
+---------------------------------------------------------------
+[ 2021-04-02T17:23:44+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.086403s] [吞吐率：11.57req/s] [内存消耗：4,878.10kb] [文件加载：223]
+[ error ] [2]count(): Parameter must be an array or an object that implements Countable[F:\WebWork\blog\application\api\controller\Get.php:198]
+---------------------------------------------------------------
+[ 2021-04-02T17:26:38+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.098146s] [吞吐率：10.19req/s] [内存消耗：4,878.05kb] [文件加载：223]
+[ error ] [2]count(): Parameter must be an array or an object that implements Countable[F:\WebWork\blog\application\api\controller\Get.php:199]
+---------------------------------------------------------------
+[ 2021-04-02T17:27:50+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.067661s] [吞吐率：14.78req/s] [内存消耗：4,878.02kb] [文件加载：223]
+[ error ] [8]Undefined property: MongoDB\Driver\Cursor::$length[F:\WebWork\blog\application\api\controller\Get.php:198]
+---------------------------------------------------------------
+[ 2021-04-02T17:37:33+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.069636s] [吞吐率：14.36req/s] [内存消耗：4,875.99kb] [文件加载：222]
+[ error ] [0]致命错误: Non-static method Countable::count() cannot be called statically[F:\WebWork\blog\application\api\controller\Get.php:198]

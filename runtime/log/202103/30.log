@@ -1,0 +1,16 @@
+---------------------------------------------------------------
+[ 2021-03-30T18:02:22+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：3.566078s] [吞吐率：0.28req/s] [内存消耗：5,136.48kb] [文件加载：208]
+[ error ] [13053]No suitable servers found (`serverSelectionTryOnce` set): [connection refused calling ismaster on '127.0.0.1:27107'][F:\WebWork\blog\vendor\mongodb\mongodb\src\Collection.php:546]
+---------------------------------------------------------------
+[ 2021-03-30T18:03:40+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：2.129212s] [吞吐率：0.47req/s] [内存消耗：5,136.48kb] [文件加载：208]
+[ error ] [13053]No suitable servers found (`serverSelectionTryOnce` set): [connection refused calling ismaster on '127.0.0.1:27107'][F:\WebWork\blog\vendor\mongodb\mongodb\src\Collection.php:546]
+---------------------------------------------------------------
+[ 2021-03-30T19:48:16+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian?XDEBUG_SESSION_START=13849
+[运行时间：0.158710s] [吞吐率：6.30req/s] [内存消耗：5,200.34kb] [文件加载：215]
+[ error ] [2]date() expects at least 1 parameter, 0 given[F:\WebWork\blog\application\api\controller\Get.php:148]
+---------------------------------------------------------------
+[ 2021-03-30T19:54:27+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian?XDEBUG_SESSION_START=13849
+[运行时间：0.110152s] [吞吐率：9.08req/s] [内存消耗：5,196.40kb] [文件加载：213]
+[ error ] [0]variable type error： boolean[F:\WebWork\blog\thinkphp\library\think\Response.php:316]

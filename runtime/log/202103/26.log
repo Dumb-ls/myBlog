@@ -1,0 +1,4 @@
+---------------------------------------------------------------
+[ 2021-03-26T13:38:02+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.540215s] [吞吐率：1.85req/s] [内存消耗：5,023.82kb] [文件加载：208]
+[ error ] [8]Use of undefined constant a - assumed 'a'[F:\WebWork\blog\application\api\controller\Get.php:144]

@@ -1,0 +1,28 @@
+---------------------------------------------------------------
+[ 2021-03-17T14:56:45+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian?day=30
+[运行时间：0.199167s] [吞吐率：5.02req/s] [内存消耗：4,928.30kb] [文件加载：211]
+[ error ] [0]ERR wrong number of arguments for 'hset' command[F:\WebWork\blog\vendor\predis\predis\src\Client.php:370]
+---------------------------------------------------------------
+[ 2021-03-17T14:57:24+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian?day=30
+[运行时间：0.063150s] [吞吐率：15.84req/s] [内存消耗：4,928.31kb] [文件加载：211]
+[ error ] [0]ERR wrong number of arguments for 'hset' command[F:\WebWork\blog\vendor\predis\predis\src\Client.php:370]
+---------------------------------------------------------------
+[ 2021-03-17T14:57:26+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian?day=30
+[运行时间：0.048546s] [吞吐率：20.60req/s] [内存消耗：4,928.31kb] [文件加载：211]
+[ error ] [0]ERR wrong number of arguments for 'hset' command[F:\WebWork\blog\vendor\predis\predis\src\Client.php:370]
+---------------------------------------------------------------
+[ 2021-03-17T15:04:02+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian?day=30
+[运行时间：0.057812s] [吞吐率：17.30req/s] [内存消耗：4,929.06kb] [文件加载：211]
+[ error ] [0]WRONGTYPE Operation against a key holding the wrong kind of value[F:\WebWork\blog\vendor\predis\predis\src\Client.php:370]
+---------------------------------------------------------------
+[ 2021-03-17T15:04:26+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian?day=30
+[运行时间：0.051221s] [吞吐率：19.52req/s] [内存消耗：4,929.06kb] [文件加载：211]
+[ error ] [0]WRONGTYPE Operation against a key holding the wrong kind of value[F:\WebWork\blog\vendor\predis\predis\src\Client.php:370]
+---------------------------------------------------------------
+[ 2021-03-17T15:04:27+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian?day=30
+[运行时间：0.049468s] [吞吐率：20.22req/s] [内存消耗：4,929.06kb] [文件加载：211]
+[ error ] [0]WRONGTYPE Operation against a key holding the wrong kind of value[F:\WebWork\blog\vendor\predis\predis\src\Client.php:370]
+---------------------------------------------------------------
+[ 2021-03-17T15:04:30+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian?day=30
+[运行时间：0.049415s] [吞吐率：20.24req/s] [内存消耗：4,929.06kb] [文件加载：211]
+[ error ] [0]WRONGTYPE Operation against a key holding the wrong kind of value[F:\WebWork\blog\vendor\predis\predis\src\Client.php:370]

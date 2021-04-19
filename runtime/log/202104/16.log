@@ -1,0 +1,4 @@
+---------------------------------------------------------------
+[ 2021-04-16T14:27:48+08:00 ] 127.0.0.1 GET www.ls.com/index.php/api/get/getKandian
+[运行时间：0.174552s] [吞吐率：5.73req/s] [内存消耗：4,145.34kb] [文件加载：184]
+[ error ] [0]方法参数错误:day[F:\WebWork\blog\thinkphp\library\think\App.php:431]
